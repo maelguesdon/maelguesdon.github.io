@@ -1,7 +1,3 @@
-
-
-# Maël Guesdon
-
 ---
 
 ## Livres
