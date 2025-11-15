@@ -5,7 +5,7 @@ title: Maël Guesdon
 
 ## Livres
 
-**test** [Mon plan](https://www.jose-corti.fr/titres/mon-plan.html), Corti.
+**2021** [Mon plan](https://www.jose-corti.fr/titres/mon-plan.html), Corti.
 
 **2015** [Voire](http://www.jose-corti.fr/titres/voire.html), Corti.
 - Traduction italienne : [*Ovvero*](https://lietocolle.ecwid.com/Ovvero-Ma%C3%ABl-Guesdon-p145443004), Lietocolle, traduit par Fabiana Bartuccelli, 2019.
