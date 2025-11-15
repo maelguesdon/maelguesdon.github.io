@@ -3,28 +3,44 @@
 
 @import "{{ site.theme }}";
 
-/* Supprimer le nom en haut à droite */
-.site-title {
-  display: none;
+/* supprimer nom en haute à droite */
+
+.site-title,
+.site-header .wrapper > a:last-of-type,
+.site-header .site-title {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
 }
 
-header .wrapper {
-  display: none;
-}
+/* liens en noir souligné */
 
-/* Changer les liens : noir souligné au lieu de bleu */
 a {
-  color: #000;  /* Noir */
-  text-decoration: underline;  /* Souligné */
+  color: #000 !important;
+  text-decoration: underline !important;
+}
+
+a:link {
+  color: #000 !important;
+}
+
+a:visited {
+  color: #000 !important;
 }
 
 a:hover {
-  color: #333;  /* Gris foncé au survol */
-  text-decoration: underline;
+  color: #333 !important;
 }
 
-/* Exception : garder les liens du header normaux s'il y en a */
-header a {
-  color: #000;
-  text-decoration: none;
+a:active {
+  color: #000 !important;
+}
+
+/* Forcer aussi dans le contenu */
+.post-content a,
+.page-content a,
+main a,
+article a {
+  color: #000 !important;
+  text-decoration: underline !important;
 }
