@@ -1,0 +1,60 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+/* ========================================
+   CACHER "View My GitHub Profile"
+   ======================================== */
+
+.view,
+.view a,
+header .view,
+aside .view,
+a[href*="github.com/maelguesdon"] {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* ========================================
+   LIENS EN NOIR SOULIGNÉ
+   ======================================== */
+
+a {
+  color: #000 !important;
+  text-decoration: underline !important;
+  font-weight: normal !important;
+}
+
+a:hover {
+  color: #333 !important;
+}
+
+a:visited {
+  color: #000 !important;
+}
+
+/* ========================================
+   TITRES EN NOIR
+   ======================================== */
+
+h1, h2, h3, h4, h5, h6 {
+  color: #222 !important;
+}
+
+/* Le nom du site en haut à gauche */
+header h1,
+header h1 a,
+header h1 a strong {
+  color: #000 !important;
+  text-decoration: none !important;
+  font-weight: 700 !important;
+}
+
+/* Description sous le nom */
+header p {
+  color: #666 !important;
+}
