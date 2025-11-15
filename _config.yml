@@ -3,8 +3,5 @@ description: Auteur, chercheur - Publications, recherches et créations
 theme: minima
 lang: fr
 author: Maël Guesdon
-
-# Domaine personnalisé (sera configuré après)
-# url: "http://maelguesdon.fr"
-
+url: "https://maelguesdon.fr"
 show_excerpts: false
