@@ -1,46 +1,44 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "minima";
 
-/* supprimer nom en haute à droite */
+/* ========================================
+   SUPPRIMER LE TITRE À DROITE
+   ======================================== */
 
-.site-title,
-.site-header .wrapper > a:last-of-type,
 .site-header .site-title {
   display: none !important;
-  visibility: hidden !important;
-  opacity: 0 !important;
 }
 
-/* liens en noir souligné */
+.site-header .wrapper > a {
+  display: none !important;
+}
 
-a {
+.site-header .wrapper {
+  display: block !important;
+}
+
+/* ========================================
+   LIENS NOIRS SOULIGNÉS
+   ======================================== */
+
+body a,
+body a:link,
+body a:visited,
+body a:hover,
+body a:active {
   color: #000 !important;
   text-decoration: underline !important;
 }
 
-a:link {
-  color: #000 !important;
-}
-
-a:visited {
-  color: #000 !important;
-}
-
-a:hover {
-  color: #333 !important;
-}
-
-a:active {
-  color: #000 !important;
-}
-
-/* Forcer aussi dans le contenu */
-.post-content a,
 .page-content a,
+.post-content a,
 main a,
-article a {
+article a,
+p a,
+li a,
+div a {
   color: #000 !important;
   text-decoration: underline !important;
 }
