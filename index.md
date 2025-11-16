@@ -5,7 +5,7 @@ title: Maël Guesdon
 
 ## Livres
 
-**2025** [Le bien-être par la poésie. Manuel de contre-culture psychique](https://www.editions-mf.com/produit/157/9782378040932/le-bien-etre-par-la-poesie), éditions MF.
+**2025** [Le bien-être par la poésie. Manuel de contre-culture psychique](https://www.editions-mf.com/produit/157/9782378040932/le-bien-etre-par-la-poesie), éditions MF, avec David Christoffel.
 
 **2021** [Mon plan](https://editions-corti.fr/livres/mon-plan), Corti.
 
