@@ -5,48 +5,31 @@ title: Maël Guesdon
 
 ## Livres
 
-**2025** [Le bien-être par la poésie. Manuel de contre-culture psychique](https://www.editions-mf.com/produit/157/9782378040932/le-bien-etre-par-la-poesie), éditions MF, avec David Christoffel.
-
-**2021** [Mon plan](https://editions-corti.fr/livres/mon-plan), Corti.
-
-**2015** [Voire](https://editions-corti.fr/livres/voire), Corti.
-- Traduction italienne : [*Ovvero*](https://lietocolle.ecwid.com/Ovvero-Ma%C3%ABl-Guesdon-p145443004), Lietocolle, traduit par Fabiana Bartuccelli, 2019.
-- Traduction danoise : [*Endda*](http://forlagetarena.dk/udgivelser/endda/), Arena - H//O//F, traduit par Morten Chemnitz, 2017.
-
-**2013** *Sorgue*, La Crypte, Prix de la Crypte – Jean Lalaude.
+**2025** [Le bien-être par la poésie. Manuel de contre-culture psychique](https://www.editions-mf.com/produit/157/9782378040932/le-bien-etre-par-la-poesie), éditions MF, avec David Christoffel. <br>
+**2021** [Mon plan](https://editions-corti.fr/livres/mon-plan), Corti.<br>
+**2015** [Voire](https://editions-corti.fr/livres/voire), Corti.<br>
+Traduction italienne : [*Ovvero*](https://lietocolle.ecwid.com/Ovvero-Ma%C3%ABl-Guesdon-p145443004), Lietocolle, traduit par Fabiana Bartuccelli, 2019.<br>
+Traduction danoise : [*Endda*](http://forlagetarena.dk/udgivelser/endda/), Arena - H//O//F, traduit par Morten Chemnitz, 2017.<br>
+**2013** *Sorgue*, La Crypte, Prix de la Crypte – Jean Lalaude.<br>
 
 ---
 
 ## Revues littéraires, anthologies, ouvrages collectifs
 
-**2023** *Hypothèses de démarrage*, [Le vent des signes](https://www.leventdessignes.fr/hypotheses-de-demarrage/), avec Charles Robinson et Emmanuel Adely.
-
-**2023** *Le rire de Parméniscos*, [revue Nioques n°27](http://revuenioques.fr/parution-de-nioques-27/).
-
-**2022** [*Le lynchage à la tomate*](https://journals.openedition.org/transposition/6809), revue Transposition n°10, avec David Christoffel (traduction anglaise de Fanny Quément : [*Tomato bashing*](https://journals.openedition.org/transposition/6874)).
-
-**2021** *Série courante*, revue Le bout des Bordes n°15, avec Marie de Quatrebarbes.
-
-**2021** *Étude sur la poly-instabilité du contre-effet boomerang*, [revue BoXon n°34](http://tapin2.org/boxon-34), avec David Christoffel.
-
-**2021** [*Il mio plano*](https://www.nazioneindiana.com/2021/08/20/il-mio-piano/), traduit en italien par Laura Giuliberti, Nazione Indiana.
-
-**2021** [*Actualités de l'entre-nous*](https://www.cairn.info/revue-multitudes-2021-1-page-125.htm), [revue Multitudes n°81](https://www.multitudes.net/category/l-edition-papier-en-ligne/82-multitudes-82-printemps-2021/), avec David Christoffel.
-
-**2020** [*Oiseaux et drones*](https://www.cairn.info/revue-multitudes-2020-3-page-150.htm), [revue Multitudes n°80](https://www.multitudes.net/category/l-edition-papier-en-ligne/80-multitudes-80-automne-2020/), avec David Christoffel.
-
-**2020** *Superfluités*, revue Teste n°39, avec Marie de Quatrebarbes.
-
-**2020** *Dawn Lundy Martin*, [Gare Maritime](http://maisondelapoesie-nantes.com/gare-maritime-3/), Maison de la poésie de Nantes, avec Marie de Quatrebarbes.
-
-**2020** [*Dos pequeños cuentos sobre el amor y la sexualidad en el siglo XXI*](https://www.revuefracas.com/dos-cuentos), traduit en espagnol par Alejandro Bianco, revue Fracas, avec David Christoffel.
-
-**2020** *Gérer son beau monde*, [revue ouste n°28](https://ferocemarquise.org/ouste-n28-conspiration-2020/), Féroce marquise/Dernier Télégramme, avec David Christoffel.
-
-**2019** *Scènes d'ouverture*, [revue Phoenix n°32](https://www.revuephoenix.com/parution-n-32-ete-2019/), avec Marie de Quatrebarbes.
-
-**2019** *Brouillons rétrospectifs du discours du Président Nixon en cas d'échec de la mission Apollo 11*, [revue Espace(s) #18](http://www.cnes-observatoire.net/ode-publications/2019-10-08_parution-espaces-18/parution-revue-espaces-18.html), avec David Christoffel.
-
+**2023** *Hypothèses de démarrage*, [Le vent des signes](https://www.leventdessignes.fr/hypotheses-de-demarrage/), avec Charles Robinson et Emmanuel Adely.<br>
+**2023** *Le rire de Parméniscos*, [revue Nioques n°27](http://revuenioques.fr/parution-de-nioques-27/).<br>
+- **2022** [*Le lynchage à la tomate*](https://journals.openedition.org/transposition/6809), revue Transposition n°10, avec David Christoffel (traduction anglaise de Fanny Quément : [*Tomato bashing*](https://journals.openedition.org/transposition/6874)).<br>
+**2021** *Série courante*, revue Le bout des Bordes n°15, avec Marie de Quatrebarbes.<br>
+**2021** *Étude sur la poly-instabilité du contre-effet boomerang*, [revue BoXon n°34](http://tapin2.org/boxon-34), avec David Christoffel.<br>
+**2021** [*Il mio plano*](https://www.nazioneindiana.com/2021/08/20/il-mio-piano/), traduit en italien par Laura Giuliberti, Nazione Indiana.<br>
+**2021** [*Actualités de l'entre-nous*](https://www.cairn.info/revue-multitudes-2021-1-page-125.htm), [revue Multitudes n°81](https://www.multitudes.net/category/l-edition-papier-en-ligne/82-multitudes-82-printemps-2021/), avec David Christoffel.<br>
+**2020** [*Oiseaux et drones*](https://www.cairn.info/revue-multitudes-2020-3-page-150.htm), [revue Multitudes n°80](https://www.multitudes.net/category/l-edition-papier-en-ligne/80-multitudes-80-automne-2020/), avec David Christoffel.<br>
+**2020** *Superfluités*, revue Teste n°39, avec Marie de Quatrebarbes.<br>
+**2020** *Dawn Lundy Martin*, [Gare Maritime](http://maisondelapoesie-nantes.com/gare-maritime-3/), Maison de la poésie de Nantes, avec Marie de Quatrebarbes.<br>
+**2020** [*Dos pequeños cuentos sobre el amor y la sexualidad en el siglo XXI*](https://www.revuefracas.com/dos-cuentos), traduit en espagnol par Alejandro Bianco, revue Fracas, avec David Christoffel.<br>
+**2020** *Gérer son beau monde*, [revue ouste n°28](https://ferocemarquise.org/ouste-n28-conspiration-2020/), Féroce marquise/Dernier Télégramme, avec David Christoffel.<br>
+**2019** *Scènes d'ouverture*, [revue Phoenix n°32](https://www.revuephoenix.com/parution-n-32-ete-2019/), avec Marie de Quatrebarbes.<br>
+**2019** *Brouillons rétrospectifs du discours du Président Nixon en cas d'échec de la mission Apollo 11*, [revue Espace(s) #18](http://www.cnes-observatoire.net/ode-publications/2019-10-08_parution-espaces-18/parution-revue-espaces-18.html), avec David Christoffel.<br>
 **2019** *Séjour sur le plan physique*, revue Teste n°35, avec Marie de Quatrebarbes.
 
 **2019** *L'embobinage infini*, [revue ouste n°27](https://ferocemarquise.org/ouste-n27-conspiration-2019/), Féroce marquise/Dernier Télégramme, avec David Christoffel.
@@ -184,8 +167,6 @@ title: Maël Guesdon
 **2022** *Mon plan*, lecture, L'ours et la vieille grille, Paris (26 février 2022).
 
 **2021** *Pourquoi les aliens n'aiment pas Beethoven ?*, performance, avec David Christoffel, colloque « [Musiques du futur : technologies sonores, histoire, politique](https://ensa-dijon.fr/colloque-musiques-du-futur-technologies-sonores-histoire-politique/) », ENSA Dijon (9 décembre 2021).
-
-*(La liste continue avec de nombreuses autres performances de 2011 à 2021)*
 
 ---
 
