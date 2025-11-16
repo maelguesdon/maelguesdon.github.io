@@ -18,7 +18,7 @@ Traduction danoise : [*Endda*](http://forlagetarena.dk/udgivelser/endda/), Arena
 
 **2023** *Hypothèses de démarrage*, [Le vent des signes](https://www.leventdessignes.fr/hypotheses-de-demarrage/), avec Charles Robinson et Emmanuel Adely.<br>
 **2023** *Le rire de Parméniscos*, [revue Nioques n°27](http://revuenioques.fr/parution-de-nioques-27/).<br>
-- **2022** [*Le lynchage à la tomate*](https://journals.openedition.org/transposition/6809), revue Transposition n°10, avec David Christoffel (traduction anglaise de Fanny Quément : [*Tomato bashing*](https://journals.openedition.org/transposition/6874)).<br>
+**2022** [*Le lynchage à la tomate*](https://journals.openedition.org/transposition/6809), revue Transposition n°10, avec David Christoffel (traduction anglaise de Fanny Quément : [*Tomato bashing*](https://journals.openedition.org/transposition/6874)).<br>
 **2021** *Série courante*, revue Le bout des Bordes n°15, avec Marie de Quatrebarbes.<br>
 **2021** *Étude sur la poly-instabilité du contre-effet boomerang*, [revue BoXon n°34](http://tapin2.org/boxon-34), avec David Christoffel.<br>
 **2021** [*Il mio plano*](https://www.nazioneindiana.com/2021/08/20/il-mio-piano/), traduit en italien par Laura Giuliberti, Nazione Indiana.<br>
@@ -30,89 +30,48 @@ Traduction danoise : [*Endda*](http://forlagetarena.dk/udgivelser/endda/), Arena
 **2020** *Gérer son beau monde*, [revue ouste n°28](https://ferocemarquise.org/ouste-n28-conspiration-2020/), Féroce marquise/Dernier Télégramme, avec David Christoffel.<br>
 **2019** *Scènes d'ouverture*, [revue Phoenix n°32](https://www.revuephoenix.com/parution-n-32-ete-2019/), avec Marie de Quatrebarbes.<br>
 **2019** *Brouillons rétrospectifs du discours du Président Nixon en cas d'échec de la mission Apollo 11*, [revue Espace(s) #18](http://www.cnes-observatoire.net/ode-publications/2019-10-08_parution-espaces-18/parution-revue-espaces-18.html), avec David Christoffel.<br>
-**2019** *Séjour sur le plan physique*, revue Teste n°35, avec Marie de Quatrebarbes.
-
-**2019** *L'embobinage infini*, [revue ouste n°27](https://ferocemarquise.org/ouste-n27-conspiration-2019/), Féroce marquise/Dernier Télégramme, avec David Christoffel.
-
-**2019** *Tout pour la fête*, [revue Espace(s) #17](http://www.lespressesdureel.com/ouvrage.php?id=7136&menu=), avec David Christoffel.
-
-**2018** [*Ovvero*](https://www.nazioneindiana.com/2018/10/22/ovvero-voire-2/), traduit en italien par Fabiana Bartuccelli, Nazione Indiana.
-
-**2018** [Mayday](http://ripforever.xyz/), [RIP 1.2](https://editions-mix.com/faire/).
-
-**2018** [*La fête des voisins*](https://editionsmixdotcom.files.wordpress.com/2019/06/faire004-2.pdf), [*faire* #004](https://editions-mix.com/faire/), avec David Christoffel.
-
-**2018** *The beginnings*, traduit en anglais par Lindsay Turner, revue [Transnational Literature](http://fhrc.flinders.edu.au/transnational/current.html).
-
-**2018** *Léger salut*, [revue Espace(s) #16](http://www.lespressesdureel.com/ouvrage.php?id=6381&menu=).
-
-**2018** *L'arrivée de la vie sur Terre*, Ce qui secret revue matérielle #3, avec Julie Morel.
-
-**2018** *L'indis*, Duos - Anthologie, Bacchannales n°59.
-
-**2017** *Personne n'est arrivé pour le dire* (extrait), [Gare Maritime](http://maisondelapoesie-nantes.com/gare-maritime-3/), Maison de la poésie de Nantes.
-
-**2017** *Pourquoi hanter les maisons, y vivre ensuite*, [revue Muscle](http://revuemuscle.tumblr.com).
-
-**2016** *Personne n'est arrivé pour le dire*, trad. Martin Högström, CHATEAUX (Suède).
-
-**2016** *Totale lumière sur*, Poezibao.
-
-**2016** [*Retourner*](https://cequisecret.net/retourner), revue Ce qui secret, Capitalisme & Schizophrénie, avec Julie Morel.
-
-**2016** *Personne n'est arrivé pour le dire*, Répondre, Jacataqua.
-
-**2015** [*Premières leçons d'E.T.isme*](https://blogs.mediapart.fr/edition/gilles-deleuze-aujourdhui/article/260115/premieres-lecons-d-etisme-par-marie-de-quatrebarbes-et-mael-guesdon), Mediapart, dossier « Gilles Deleuze aujourd'hui ».
-
-**2015** [*Voire*](http://poezibao.typepad.com/poezibao/2015/02/anthologie-permanente-ma%C3%ABl-guesdon.html) (extrait), Poezibao.
-
-**2015** [*Entrer*](https://revuespam.wordpress.com/2015/07/01/24-mael-guesdon-entrer/), SPiced hAM.
-
-**2014** [*Théorie du projet Général Instin. Fragments de Suzanne Lindelton*](http://remue.net/spip.php?article7065), remue.net.
-
-**2014** [*Medvekine for ever*](http://laviemanifeste.com/wp-content/uploads/2014/08/FaceAFaceB03.pdf), [Face A/ Face B](http://laviemanifeste.com/face-a-face-b), La Vie Manifeste.
-
-**2014** *Catiches*, [Série z : 3](http://zdeuxpoints.tumblr.com/post/88098138932/sortie-de-z-2).
-
-**2014** *Sorna*, revue [Mula Blanca](http://mulablanca.com), n°9, traduit en espagnol par Laura Petrecca et Javier Sabarros.
-
-**2014** *Vision générale de la côte rocheuse*, [revue Sarrazine n°14](http://www.sarrazine.com/node/25), (H)or(s).
-
-**2014** *Sorgue*, Les carnets d'Eucharis, n°43.
-
-**2014** *Voici le genre de choses dont nous pourrions témoigner*, remue.net.
-
-**2013** [*Bréviaire à l'usage des Sœurs Mineures. Fragments de Suzanne Lindelton*](http://laviemanifeste.com/archives/8428), La vie manifeste.
-
-**2013** [*Sauf*](http://remue.net/spip.php?article6055), remue.net.
-
-**2013** [*You want confidence*](http://matterofmalaise.blogspot.fr/2013/06/you-want-confidence.html), Matter of malaise.
-
-**2013** *Série sombre tête court*, Verso n°155.
-
-**2013** *Choses habitée.s*, revue Coaltar.
-
-**2013** *Suzie et Fred. Fragments de Suzanne Lindelton*, revue Aka n°2.
-
-**2013** *Va*, revue Aka n°1.
-
-**2013** *Close là*, [revue Ouste n°21](https://ferocemarquise.org/ouste-n21-conspiration-2013/), Féroce marquise/Dernier Télégramme.
-
-**2013** *À l'enseigne*, éditions Chatoyantes.
-
-**2012** [*Qui d'eux dans chaque voix*](https://cequisecret.net/oui218), revue Ce qui secret.
-
-**2012** *Ensemble des questions*, revue Contre-allées n°31/32.
-
-**2012** *Sorgue*, revue N4728, n° 22.
-
-**2012** *Verticilles*, revue Coaltar.
-
-**2012** *Captations*, revue La Passe, n°16.
-
-**2012** *Borderline*, Les cahiers d'Adèle n°9 (sous le nom de M. Gramm).
-
-**2011** *Demeure*, revue Rue saint Ambroise n° 28.
+**2019** *Séjour sur le plan physique*, revue Teste n°35, avec Marie de Quatrebarbes.<br>
+**2019** *L'embobinage infini*, [revue ouste n°27](https://ferocemarquise.org/ouste-n27-conspiration-2019/), Féroce marquise/Dernier Télégramme, avec David Christoffel.<br>
+**2019** *Tout pour la fête*, [revue Espace(s) #17](http://www.lespressesdureel.com/ouvrage.php?id=7136&menu=), avec David Christoffel.<br>
+**2018** [*Ovvero*](https://www.nazioneindiana.com/2018/10/22/ovvero-voire-2/), traduit en italien par Fabiana Bartuccelli, Nazione Indiana.<br>
+**2018** [Mayday](http://ripforever.xyz/), [RIP 1.2](https://editions-mix.com/faire/).<br>
+**2018** [*La fête des voisins*](https://editionsmixdotcom.files.wordpress.com/2019/06/faire004-2.pdf), [*faire* #004](https://editions-mix.com/faire/), avec David Christoffel.<br>
+**2018** *The beginnings*, traduit en anglais par Lindsay Turner, revue [Transnational Literature](http://fhrc.flinders.edu.au/transnational/current.html).<br>
+**2018** *Léger salut*, [revue Espace(s) #16](http://www.lespressesdureel.com/ouvrage.php?id=6381&menu=).<br>
+**2018** *L'arrivée de la vie sur Terre*, Ce qui secret revue matérielle #3, avec Julie Morel.<br>
+**2018** *L'indis*, Duos - Anthologie, Bacchannales n°59.<br>
+**2017** *Personne n'est arrivé pour le dire* (extrait), [Gare Maritime](http://maisondelapoesie-nantes.com/gare-maritime-3/), Maison de la poésie de Nantes.<br>
+**2017** *Pourquoi hanter les maisons, y vivre ensuite*, [revue Muscle](http://revuemuscle.tumblr.com).<br>
+**2016** *Personne n'est arrivé pour le dire*, trad. Martin Högström, CHATEAUX (Suède).<br>
+**2016** *Totale lumière sur*, Poezibao.<br>
+**2016** [*Retourner*](https://cequisecret.net/retourner), revue Ce qui secret, Capitalisme & Schizophrénie, avec Julie Morel.<br>
+**2016** *Personne n'est arrivé pour le dire*, Répondre, Jacataqua.<br>
+**2015** [*Premières leçons d'E.T.isme*](https://blogs.mediapart.fr/edition/gilles-deleuze-aujourdhui/article/260115/premieres-lecons-d-etisme-par-marie-de-quatrebarbes-et-mael-guesdon), Mediapart, dossier « Gilles Deleuze aujourd'hui ».<br>
+**2015** [*Voire*](http://poezibao.typepad.com/poezibao/2015/02/anthologie-permanente-ma%C3%ABl-guesdon.html) (extrait), Poezibao.<br>
+**2015** [*Entrer*](https://revuespam.wordpress.com/2015/07/01/24-mael-guesdon-entrer/), SPiced hAM.<br>
+**2014** [*Théorie du projet Général Instin. Fragments de Suzanne Lindelton*](http://remue.net/spip.php?article7065), remue.net.<br>
+**2014** [*Medvekine for ever*](http://laviemanifeste.com/wp-content/uploads/2014/08/FaceAFaceB03.pdf), [Face A/ Face B](http://laviemanifeste.com/face-a-face-b), La Vie Manifeste.<br>
+**2014** *Catiches*, [Série z : 3](http://zdeuxpoints.tumblr.com/post/88098138932/sortie-de-z-2).<br>
+**2014** *Sorna*, revue [Mula Blanca](http://mulablanca.com), n°9, traduit en espagnol par Laura Petrecca et Javier Sabarros.<br>
+**2014** *Vision générale de la côte rocheuse*, [revue Sarrazine n°14](http://www.sarrazine.com/node/25), (H)or(s).<br>
+**2014** *Sorgue*, Les carnets d'Eucharis, n°43.<br>
+**2014** *Voici le genre de choses dont nous pourrions témoigner*, remue.net.<br>
+**2013** [*Bréviaire à l'usage des Sœurs Mineures. Fragments de Suzanne Lindelton*](http://laviemanifeste.com/archives/8428), La vie manifeste.<br>
+**2013** [*Sauf*](http://remue.net/spip.php?article6055), remue.net.<br>
+**2013** [*You want confidence*](http://matterofmalaise.blogspot.fr/2013/06/you-want-confidence.html), Matter of malaise.<br>
+**2013** *Série sombre tête court*, Verso n°155.<br>
+**2013** *Choses habitée.s*, revue Coaltar.<br>
+**2013** *Suzie et Fred. Fragments de Suzanne Lindelton*, revue Aka n°2.<br>
+**2013** *Va*, revue Aka n°1.<br>
+**2013** *Close là*, [revue Ouste n°21](https://ferocemarquise.org/ouste-n21-conspiration-2013/), Féroce marquise/Dernier Télégramme.<br>
+**2013** *À l'enseigne*, éditions Chatoyantes.<br>
+**2012** [*Qui d'eux dans chaque voix*](https://cequisecret.net/oui218), revue Ce qui secret.<br>
+**2012** *Ensemble des questions*, revue Contre-allées n°31/32.<br>
+**2012** *Sorgue*, revue N4728, n° 22.<br>
+**2012** *Verticilles*, revue Coaltar.<br>
+**2012** *Captations*, revue La Passe, n°16.<br>
+**2012** *Borderline*, Les cahiers d'Adèle n°9 (sous le nom de M. Gramm).<br>
+**2011** *Demeure*, revue Rue saint Ambroise n° 28.<br>
 
 ---
 
