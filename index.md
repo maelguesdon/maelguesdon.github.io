@@ -77,107 +77,66 @@ Traduction danoise : [*Endda*](http://forlagetarena.dk/udgivelser/endda/), Arena
 
 ## Revues scientifiques, chapitres d'ouvrages collectifs, actes de colloques
 
-**2019** « De la clinique à la musique : stéréotypies psychiatriques et ritournelles deleuzo-guattariennes », Querrien, Anne, Sauvagnargues, Anne et Villani, Arnaud (dir.), [Agencer les multiplicités avec Deleuze](http://www.ccic-cerisy.asso.fr/deleuzeTM19.html), Paris, Hermann Éditeurs.
-
-**2016** « Une voix sans corps pour des corps sans voix. À propos des hologrammes en général et d'Hatsune Miku en particulier », Le Guern, Philippe (dir.), [*Où va la musique ? Numérimorphose et nouvelles expériences d'écoute*](https://www.pressesdesmines.com/produit/ou-va-la-musique/), Presses des mines, 2016. Avec Philippe Le Guern.
-
-**2015** « Même les constantes sont pour la variation. Sur trois usages de la mélodie dans Capitalisme et schizophrénie », Criton, Pascale et Chouvel, Jean-Marc (dir.), [*Gilles Deleuze. La pensée-musique*](http://www.cdmc.asso.fr/fr/ressources/publications/gilles-deleuze-pensee-musique), Paris, Éditions du Centre de documentation de la Musique Contemporaine.
-
-**2014** « Gilles Deleuze, une politique du son », Cassagnau, Pascale, [*Une idée du Nord. Excursions dans la création contemporaine sonore*](http://remue.net/spip.php?article7474), Paris, École nationale supérieure des beaux-arts de Paris.
-
-**2014** « Retromania: Crisis of Progressive Ideal and Spectrality in Pop Music », Niemeyer, Katharina (dir.), [*Media and Nostalgia. Yearning for the Past, Present and Future*](https://www.palgrave.com/us/book/9781137375872#reviews), Palgrave Macmillan. Avec Philippe Le Guern.
-
-**2013** « [D'une répétition l'autre. La ritournelle dans "Monographie sur R.A."](https://www.cairn.info/revue-chimeres-2013-1-page-142.htm) », [*Chimères* n°79](https://www.cairn.info/revue-chimeres-2013-1.htm), "Chaosmose, temps pluriels", numéro dirigé par Pascale Criton, Éditions érès.
-
-**2013** « [Figures de l'écoute : circonstances, usages, métaphores](http://journals.openedition.org/volume/3654) », [*Volume !*](http://journals.openedition.org/volume/3575), Éditions Seteun, 1/2013 (10:1). Avec Sarah Benhaïm.
-
-**2010** « [L'Ontologie du rock de Roger Pouivet](http://journals.openedition.org/volume/1094) », [*Volume !*](http://journals.openedition.org/volume/58), Éditions Seteun, 1/2010 (7:1).
+**2019** « De la clinique à la musique : stéréotypies psychiatriques et ritournelles deleuzo-guattariennes », Querrien, Anne, Sauvagnargues, Anne et Villani, Arnaud (dir.), [Agencer les multiplicités avec Deleuze](http://www.ccic-cerisy.asso.fr/deleuzeTM19.html), Paris, Hermann Éditeurs.<br>
+**2016** « Une voix sans corps pour des corps sans voix. À propos des hologrammes en général et d'Hatsune Miku en particulier », Le Guern, Philippe (dir.), [*Où va la musique ? Numérimorphose et nouvelles expériences d'écoute*](https://www.pressesdesmines.com/produit/ou-va-la-musique/), Presses des mines, 2016. Avec Philippe Le Guern.<br>
+**2015** « Même les constantes sont pour la variation. Sur trois usages de la mélodie dans Capitalisme et schizophrénie », Criton, Pascale et Chouvel, Jean-Marc (dir.), [*Gilles Deleuze. La pensée-musique*](http://www.cdmc.asso.fr/fr/ressources/publications/gilles-deleuze-pensee-musique), Paris, Éditions du Centre de documentation de la Musique Contemporaine.<br>
+**2014** « Gilles Deleuze, une politique du son », Cassagnau, Pascale, [*Une idée du Nord. Excursions dans la création contemporaine sonore*](http://remue.net/spip.php?article7474), Paris, École nationale supérieure des beaux-arts de Paris.<br>
+**2014** « Retromania: Crisis of Progressive Ideal and Spectrality in Pop Music », Niemeyer, Katharina (dir.), [*Media and Nostalgia. Yearning for the Past, Present and Future*](https://www.palgrave.com/us/book/9781137375872#reviews), Palgrave Macmillan. Avec Philippe Le Guern.<br>
+**2013** « [D'une répétition l'autre. La ritournelle dans "Monographie sur R.A."](https://www.cairn.info/revue-chimeres-2013-1-page-142.htm) », [*Chimères* n°79](https://www.cairn.info/revue-chimeres-2013-1.htm), "Chaosmose, temps pluriels", numéro dirigé par Pascale Criton, Éditions érès.<br>
+**2013** « [Figures de l'écoute : circonstances, usages, métaphores](http://journals.openedition.org/volume/3654) », [*Volume !*](http://journals.openedition.org/volume/3575), Éditions Seteun, 1/2013 (10:1). Avec Sarah Benhaïm.<br>
+**2010** « [L'Ontologie du rock de Roger Pouivet](http://journals.openedition.org/volume/1094) », [*Volume !*](http://journals.openedition.org/volume/58), Éditions Seteun, 1/2010 (7:1).<br>
 
 ---
 
 ## Performances, lectures, rencontres
 
-**2023** *Définitivement mèmes*, avec Elsa Boyer, [CIPM / L'odeur du temps](https://cipmarseille.fr/chronologie/4624), Marseille (26 octobre 2023).
-
-**2023** *Le rire de Parmeniscos, pourquoi hanter*, lecture, [Festival Tournez la plage](https://www.larthicethoc.com/festival), La Ciotat (5 août 2023).
-
-**2023** *Mon plan*, lecture, [Festival Tournez la plage](https://www.larthicethoc.com/festival), La Ciotat (4 août 2023).
-
-**2023** *Shane*, lecture, avec Charlotte Escamez et Toups, [Théâtre de l'Èvre](https://www.theatredelevre.fr/evenement/une-echappee-litteraire/), Notre-Dame-du-Marillais (22 avril 2023).
-
-**2023** Ouverture de résidence, rencontre modérée par Gwenaëlle Abolivier, avec Charlotte Escamez, [Maison Julien Gracq](https://maisonjuliengracq.fr/), Saint-Florent-le-Vieil (09 mars 2023).
-
-**2023** Rencontre, entretien par Catherine Pont-Humbert, [Festival Atlantide](https://www.atlantide-festival.org/agenda/mael-guesdon/), Nantes (04 mars 2023).
-
-**2022** *Hypothèses de démarrage*, lecture, avec Charles Robinson et Emmanuel Adely, [Festival [et+si affinités]](https://www.leventdessignes.fr/class/le-studio/), Le vent des signes, Toulouse (03 décembre 2022).
-
-**2022** *Mon plan*, lecture, Festival moins les murs, Hagetmau (28 mai 2022).
-
-**2022** *La fin des histoires*, lecture, Festival moins les murs, Hagetmau (27 mai 2022).
-
-**2022** *Il Mio piano*, lecture bilingue, [Import/Export](https://cipmarseille.fr/evenement_fiche.php?id=1487) (CipM), Zeugma - Casa della Poesia di Roma, Rome (07 mai 2022).
-
-**2022** Lecture et présentation bilingue italien-français, [Import/Export](https://cipmarseille.fr/evenement_fiche.php?id=1487) (CipM), avec Andrea de Alberti, Frédéric Forte, Emmanuèle Jawad, Simona Menicocci, Lidia Riviello, Andrea Franzoni et Laura Giuliberti, Casa delle Letterature, Rome (06 mai 2022).
-
-**2022** *Mon plan*, lecture, [*Faire poème*](https://livre.ciclic.fr/actualites/faire-poeme-ateliers-deux-jours-de-poesie), La Riche (26 et 27 mars 2022).
-
-**2022** *Mon plan*, lecture, eae, Pantin (19 mars 2022).
-
-**2022** *Mon plan*, lecture, L'ours et la vieille grille, Paris (26 février 2022).
-
-**2021** *Pourquoi les aliens n'aiment pas Beethoven ?*, performance, avec David Christoffel, colloque « [Musiques du futur : technologies sonores, histoire, politique](https://ensa-dijon.fr/colloque-musiques-du-futur-technologies-sonores-histoire-politique/) », ENSA Dijon (9 décembre 2021).
+**2023** *Définitivement mèmes*, avec Elsa Boyer, [CIPM / L'odeur du temps](https://cipmarseille.fr/chronologie/4624), Marseille (26 octobre 2023).<br>
+**2023** *Le rire de Parmeniscos, pourquoi hanter*, lecture, [Festival Tournez la plage](https://www.larthicethoc.com/festival), La Ciotat (5 août 2023).<br>
+**2023** *Mon plan*, lecture, [Festival Tournez la plage](https://www.larthicethoc.com/festival), La Ciotat (4 août 2023).<br>
+**2023** *Shane*, lecture, avec Charlotte Escamez et Toups, [Théâtre de l'Èvre](https://www.theatredelevre.fr/evenement/une-echappee-litteraire/), Notre-Dame-du-Marillais (22 avril 2023).<br>
+**2023** Ouverture de résidence, rencontre modérée par Gwenaëlle Abolivier, avec Charlotte Escamez, [Maison Julien Gracq](https://maisonjuliengracq.fr/), Saint-Florent-le-Vieil (09 mars 2023).<br>
+**2023** Rencontre, entretien par Catherine Pont-Humbert, [Festival Atlantide](https://www.atlantide-festival.org/agenda/mael-guesdon/), Nantes (04 mars 2023).<br>
+**2022** *Hypothèses de démarrage*, lecture, avec Charles Robinson et Emmanuel Adely, [Festival [et+si affinités]](https://www.leventdessignes.fr/class/le-studio/), Le vent des signes, Toulouse (03 décembre 2022).<br>
+**2022** *Mon plan*, lecture, Festival moins les murs, Hagetmau (28 mai 2022).<br>
+**2022** *La fin des histoires*, lecture, Festival moins les murs, Hagetmau (27 mai 2022).<br>
+**2022** *Il Mio piano*, lecture bilingue, [Import/Export](https://cipmarseille.fr/evenement_fiche.php?id=1487) (CipM), Zeugma - Casa della Poesia di Roma, Rome (07 mai 2022).<br>
+**2022** Lecture et présentation bilingue italien-français, [Import/Export](https://cipmarseille.fr/evenement_fiche.php?id=1487) (CipM), avec Andrea de Alberti, Frédéric Forte, Emmanuèle Jawad, Simona Menicocci, Lidia Riviello, Andrea Franzoni et Laura Giuliberti, Casa delle Letterature, Rome (06 mai 2022).<br>
+**2022** *Mon plan*, lecture, [*Faire poème*](https://livre.ciclic.fr/actualites/faire-poeme-ateliers-deux-jours-de-poesie), La Riche (26 et 27 mars 2022).<br>
+**2022** *Mon plan*, lecture, eae, Pantin (19 mars 2022).<br>
+**2022** *Mon plan*, lecture, L'ours et la vieille grille, Paris (26 février 2022).<br>
+**2021** *Pourquoi les aliens n'aiment pas Beethoven ?*, performance, avec David Christoffel, colloque « [Musiques du futur : technologies sonores, histoire, politique](https://ensa-dijon.fr/colloque-musiques-du-futur-technologies-sonores-histoire-politique/) », ENSA Dijon (9 décembre 2021).<br>
 
 ---
 
 ## Pièces sonores et vidéos
 
-**2020** [*Une vie équilibrée*](https://radioo.online/programme/330/), Radio O, avec David Christoffel.
-
-**2020** [*Le boomerang de Sylvie*](https://soundcloud.com/user-889063604/le-boomerang-de-sylvie), Maison des écrivains et de la littérature, avec David Christoffel.
-
-**2020** [*La version améliorée du problème*](https://www.youtube.com/watch?v=Z5M5pkn3sQ0), vidéo, Festival Faim !, avec David Christoffel.
-
-**2020** [*Embobiner et choisir, petits contes sur l'amour et la sexualité au XXIe siècle*](https://www.revuefracas.com/deux-contes), création sonore, revue Fracas, avec David Christoffel.
-
-**2019** [*Une poutre qui devient tes yeux*](https://www.sitaudis.fr/Auditions/une-poutre-qui-devient-tes-yeux-1574924884.php), création sonore, Sitaudis.
-
-**2019** [*FUIR, petit conte sur l'amour et la sexualité au XXIe siècle*](http://tapin2.org/petit-conte-fuir), création sonore, Tapin².
-
-**2019** *La fête des voisins*, vidéo, Ut Pictura Poesis, Studio des poésies expérimentales, Paris (16 mars 2019).
-
-**2019** [*L'ascenseur*](https://supermoyenlesdisques.bandcamp.com/track/lascenseur-avec-ma-l-guesdon), Radio O repris dans Radio Toutlemonde vol.3 (Super Moyen), avec David Christoffel.
-
-**2018** [*L'ours dans la belette*](https://www.revue-chimeres.fr/L-ours-dans-la-belette), Chimères, avec David Christoffel.
-
-**2017** [*Pourquoi hanter les maisons, y vivre ensuite*](https://www.youtube.com/watch?v=XtDCA1ZDJ-w&t=301s), vidéo, Manifesten, Marseille.
-
-**2016** *Personne n'est arrivé pour le dire*, vidéo, Maison de la poésie de Nantes (14 janvier 2016).
-
-**2015** *Johnny Guitar est l'histoire d'un cowboy qui a échangé son arme contre une guitare*, vidéo, Nuit Général Instin, Maison de la Poésie, Paris (03 décembre 2015).
-
-**2015** *Antiguitar 1&2*, RADIO, avec Marie de Quatrebarbes (11-12 décembre 2015).
+**2020** [*Une vie équilibrée*](https://radioo.online/programme/330/), Radio O, avec David Christoffel.<br>
+**2020** [*Le boomerang de Sylvie*](https://soundcloud.com/user-889063604/le-boomerang-de-sylvie), Maison des écrivains et de la littérature, avec David Christoffel.<br>
+**2020** [*La version améliorée du problème*](https://www.youtube.com/watch?v=Z5M5pkn3sQ0), vidéo, Festival Faim !, avec David Christoffel.<br>
+**2020** [*Embobiner et choisir, petits contes sur l'amour et la sexualité au XXIe siècle*](https://www.revuefracas.com/deux-contes), création sonore, revue Fracas, avec David Christoffel.<br>
+**2019** [*Une poutre qui devient tes yeux*](https://www.sitaudis.fr/Auditions/une-poutre-qui-devient-tes-yeux-1574924884.php), création sonore, Sitaudis.<br>
+**2019** [*FUIR, petit conte sur l'amour et la sexualité au XXIe siècle*](http://tapin2.org/petit-conte-fuir), création sonore, Tapin².<br>
+**2019** *La fête des voisins*, vidéo, Ut Pictura Poesis, Studio des poésies expérimentales, Paris (16 mars 2019).<br>
+**2019** [*L'ascenseur*](https://supermoyenlesdisques.bandcamp.com/track/lascenseur-avec-ma-l-guesdon), Radio O repris dans Radio Toutlemonde vol.3 (Super Moyen), avec David Christoffel.<br>
+**2018** [*L'ours dans la belette*](https://www.revue-chimeres.fr/L-ours-dans-la-belette), Chimères, avec David Christoffel.<br>
+**2017** [*Pourquoi hanter les maisons, y vivre ensuite*](https://www.youtube.com/watch?v=XtDCA1ZDJ-w&t=301s), vidéo, Manifesten, Marseille.<br>
+**2016** *Personne n'est arrivé pour le dire*, vidéo, Maison de la poésie de Nantes (14 janvier 2016).<br>
+**2015** *Johnny Guitar est l'histoire d'un cowboy qui a échangé son arme contre une guitare*, vidéo, Nuit Général Instin, Maison de la Poésie, Paris (03 décembre 2015).<br>
+**2015** *Antiguitar 1&2*, RADIO, avec Marie de Quatrebarbes (11-12 décembre 2015).<br>
 
 ---
 
 ## Éditions
 
-**2019** [*La tête et les cornes #8*](https://la-tete-et-les-cornes.tumblr.com/) : textes de Carla Demierre, Lidia Riviello, Andrea De Alberti, Simona Menicocci, Christian Steinbacher, Grégoire Sourice, Elee Kraljii Gardiner, Ho, Lindsay Turner.
-
-**2019** [*La tête et les cornes #7*](https://la-tete-et-les-cornes.tumblr.com/) : textes de Mia You, Dagmara Kraus, Benjamin Hollander, Gilles Weinzaepflen, Ho, Ulf Stolterfoht, The Maw Naing.
-
-**2018** [*La tête et les cornes #6*](http://la-tete-et-les-cornes.tumblr.com/post/172197348200/parution-de-la-t%C3%AAte-et-les-cornes-n-5) : textes de Dagmara Kraus, Rosmarie Waldrop, Nils Christian Moe Repstad, Seung-Hee Kim, Maxime Hortense Pascal et Mia You.
-
-**2018** [*La tête et les cornes #5*](http://la-tete-et-les-cornes.tumblr.com/post/172197348200/parution-de-la-t%C3%AAte-et-les-cornes-n-5) : textes de Jørn H Sværen, Ben Lerner, Paal Bjelke Andersen, Dominique Quélen, Marie Silkeberg, Silje Vethal, Michèle Métail.
-
-**2017** [*La tête et les cornes #4*](http://la-tete-et-les-cornes.tumblr.com/post/167590216560/parution-de-la-t%C3%AAte-et-les-cornes-n-4) : textes de Peter Waterhouse, Lindsay Turner, Hugo Pernet, Keith Waldrop, Nils Christian Moe-Repstad, Dawn Lundy Martin, Silje Vethal, Mei-Mei Berssenbrugge, Jacques Roubaud, Jørn H. Sværen.
-
-**2017** [*La tête et les cornes #3*](http://la-tete-et-les-cornes.tumblr.com/post/165823511060/parution-de-avec-alain-cavalier-1-entretien-12), "avec Alain Cavalier, 1 entretien, 12 textes".
-
-**2015** *La tête et les cornes #2* : textes de Linnéa Eriksson, Beata Berggren, Adam Westman, Niclas Nilsson, Martin Högström, Peter Thörneby, Jørn H. Sværen, Virgil Mazilescu, Peter Waterhouse, Peter Gizzi, Chu Halim, Victoria Xardel, Julien Maret, Cécile Mainardi, Danielle Mémoire.
-
-**2014** *La tête et les cornes #1* : textes de Marie-louise Chapelle, Alan Davies, Marc Perrin, Marie Cosnay, Caroline Sagot Duvauroux, An Hyŏnmi, Ch'oi Kŭmjin, Kim Chudae, Lee Ch'ŏlsŏng, Lee Chaehun, Hŏ Yŏn, Marie-Hélène Renoux, Alice Notley.
-
-**2014** [*Série z :*](http://zdeuxpoints.tumblr.com/seriez) textes de Patrick Beurard-Valdoye, Nicole Caligaris, Pierre Drogi, Lucie Taïeb, Arno Bertina, Stéphane Bouquet, Anne Kawala, Fabienne Raphoz, Maël Guesdon, Cécile Mainardi, Martin Richet, Caroline Sagot Duvauroux, Marie Cosnay, Stéphane Korvin, Christophe Manon, Marie de Quatrebarbes.
+**2019** [*La tête et les cornes #8*](https://la-tete-et-les-cornes.tumblr.com/) : textes de Carla Demierre, Lidia Riviello, Andrea De Alberti, Simona Menicocci, Christian Steinbacher, Grégoire Sourice, Elee Kraljii Gardiner, Ho, Lindsay Turner.<br>
+**2019** [*La tête et les cornes #7*](https://la-tete-et-les-cornes.tumblr.com/) : textes de Mia You, Dagmara Kraus, Benjamin Hollander, Gilles Weinzaepflen, Ho, Ulf Stolterfoht, The Maw Naing.<br>
+**2018** [*La tête et les cornes #6*](http://la-tete-et-les-cornes.tumblr.com/post/172197348200/parution-de-la-t%C3%AAte-et-les-cornes-n-5) : textes de Dagmara Kraus, Rosmarie Waldrop, Nils Christian Moe Repstad, Seung-Hee Kim, Maxime Hortense Pascal et Mia You.<br>
+**2018** [*La tête et les cornes #5*](http://la-tete-et-les-cornes.tumblr.com/post/172197348200/parution-de-la-t%C3%AAte-et-les-cornes-n-5) : textes de Jørn H Sværen, Ben Lerner, Paal Bjelke Andersen, Dominique Quélen, Marie Silkeberg, Silje Vethal, Michèle Métail.<br>
+**2017** [*La tête et les cornes #4*](http://la-tete-et-les-cornes.tumblr.com/post/167590216560/parution-de-la-t%C3%AAte-et-les-cornes-n-4) : textes de Peter Waterhouse, Lindsay Turner, Hugo Pernet, Keith Waldrop, Nils Christian Moe-Repstad, Dawn Lundy Martin, Silje Vethal, Mei-Mei Berssenbrugge, Jacques Roubaud, Jørn H. Sværen.<br>
+**2017** [*La tête et les cornes #3*](http://la-tete-et-les-cornes.tumblr.com/post/165823511060/parution-de-avec-alain-cavalier-1-entretien-12), "avec Alain Cavalier, 1 entretien, 12 textes".<br>
+**2015** *La tête et les cornes #2* : textes de Linnéa Eriksson, Beata Berggren, Adam Westman, Niclas Nilsson, Martin Högström, Peter Thörneby, Jørn H. Sværen, Virgil Mazilescu, Peter Waterhouse, Peter Gizzi, Chu Halim, Victoria Xardel, Julien Maret, Cécile Mainardi, Danielle Mémoire.<br>
+**2014** *La tête et les cornes #1* : textes de Marie-louise Chapelle, Alan Davies, Marc Perrin, Marie Cosnay, Caroline Sagot Duvauroux, An Hyŏnmi, Ch'oi Kŭmjin, Kim Chudae, Lee Ch'ŏlsŏng, Lee Chaehun, Hŏ Yŏn, Marie-Hélène Renoux, Alice Notley.<br>
+**2014** [*Série z :*](http://zdeuxpoints.tumblr.com/seriez) textes de Patrick Beurard-Valdoye, Nicole Caligaris, Pierre Drogi, Lucie Taïeb, Arno Bertina, Stéphane Bouquet, Anne Kawala, Fabienne Raphoz, Maël Guesdon, Cécile Mainardi, Martin Richet, Caroline Sagot Duvauroux, Marie Cosnay, Stéphane Korvin, Christophe Manon, Marie de Quatrebarbes.<br>
 
 ---
 
