@@ -104,8 +104,7 @@ title: Maël Guesdon
 **2022** *Mon plan*, lecture, [*Faire poème*](https://livre.ciclic.fr/actualites/faire-poeme-ateliers-deux-jours-de-poesie), La Riche (26 et 27 mars 2022).<br>
 **2022** *Mon plan*, lecture, eae, Pantin (19 mars 2022).<br>
 **2022** *Mon plan*, lecture, L'ours et la vieille grille, Paris (26 février 2022).<br>
-**2021** *Pourquoi les aliens n'aiment pas Beethoven ?*, performance, avec David Christoffel, colloque « [Musiques du futur : technologies sonores, histoire, politique](https://ensa-dijon.fr/colloque-musiques-du-futur-technologies-sonores-histoire-politique/) », ENSA Dijon (9 décembre 2021).<br>
-**2020** *Il Mio piano*, lecture avec Laura Giuliberti, « Tutte le poesie possibili », Villa Ada, Rome, Italie (26 juin 2021).<br> 
+**2021** *Pourquoi les aliens n'aiment pas Beethoven ?*, performance, avec David Christoffel, colloque « [Musiques du futur : technologies sonores, histoire, politique](https://ensa-dijon.fr/colloque-musiques-du-futur-technologies-sonores-histoire-politique/) », ENSA Dijon (9 décembre 2021).<br> **2020** *Il Mio piano*, lecture avec Laura Giuliberti, « Tutte le poesie possibili », Villa Ada, Rome, Italie (26 juin 2021).<br> 
 **2020** Lecture et rencontre avec Marie de Quatrebarbes et Dominique Quélen, Librairie Texture, Paris (06 février 2020).<br> 
 **2019** *Me suis-je sympa, se dis-je ?*, performance, avec David Christoffel, colloque [Machines sympathiques ?](https://lettres.univ-tours.fr/actualites/colloque-machines-sympathiques-litterature-arts-philosophie-725592.kjsp), Université de Tours (24 octobre 2019).<br> 
 **2019** Lecture et présentation de *Discipline*, avec Dawn Lundy Martin et Marie de Quatrebarbes, Festival Littérature, etc, Église désacralisée Marie-Madeleine, Lille (19 octobre 2019).<br> 
@@ -135,7 +134,8 @@ title: Maël Guesdon
 **2014** *La tête et les cornes #1*, présentation et lectures, Médiathèque Marguerite Audoux, Paris (25 septembre 2014).<br> 
 **2014** Présentation des *séries z : 1 et z : 2*, lectures, Librairie Texture, Paris (17 juin 2014).<br> 
 **2014** *Les solidifications provisoires*, performance, Festival Général Instin — 22 bis rue Dénoyez, Paris (31 mai 2014).<br> 
-**2014** *Sorgue*, lecture, Médiathèque de Mont-de-Marsan (15 mars 2014).<br> **2014** Autour du *livre d’El*, rencontre [remue.net](https://remue.net) avec Caroline Sagot Duvauroux, Centre Cerise, Paris (17 janvier 2014).<br> 
+**2014** *Sorgue*, lecture, Médiathèque de Mont-de-Marsan (15 mars 2014).<br> 
+**2014** Autour du *livre d’El*, rencontre [remue.net](https://remue.net) avec Caroline Sagot Duvauroux, Centre Cerise, Paris (17 janvier 2014).<br> 
 **2013** *À l’enseigne*, performance, Galerie Nathalie Fiks, Paris (23 octobre 2013).<br> 
 **2013** *Sorgue*, lecture, Les rendez-vous du Bois Chevalier, Legé (22 juin 2013).<br> 
 **2011** *Demeure*, lecture, La Maroquinerie, Paris (06 novembre 2011).<br>
