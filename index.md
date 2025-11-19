@@ -16,8 +16,8 @@ title: Maël Guesdon
 
 ## Revues littéraires, anthologies, ouvrages collectifs
 
-**2023** *Hypothèses de démarrage*, [Le vent des signes](https://www.leventdessignes.fr/hypotheses-de-demarrage/), avec Charles Robinson et Emmanuel Adely.<br>
-**2023** *Le rire de Parméniscos*, [revue Nioques n°27](http://revuenioques.fr/parution-de-nioques-27/).<br>
+2023 *Hypothèses de démarrage*, [Le vent des signes](https://www.leventdessignes.fr/hypotheses-de-demarrage/), avec Charles Robinson et Emmanuel Adely.<br>
+2023 *Le rire de Parméniscos*, [revue Nioques n°27](http://revuenioques.fr/parution-de-nioques-27/).<br>
 **2022** [*Le lynchage à la tomate*](https://journals.openedition.org/transposition/6809), revue Transposition n°10, avec David Christoffel (traduction anglaise de Fanny Quément : [*Tomato bashing*](https://journals.openedition.org/transposition/6874)).<br>
 **2021** *Série courante*, revue Le bout des Bordes n°15, avec Marie de Quatrebarbes.<br>
 **2021** *Étude sur la poly-instabilité du contre-effet boomerang*, [revue BoXon n°34](http://tapin2.org/boxon-34), avec David Christoffel.<br>
