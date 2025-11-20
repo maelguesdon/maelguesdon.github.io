@@ -110,39 +110,39 @@ title: Maël Guesdon
 
 ## Pièces sonores et vidéos
 
-2020 [*Une vie équilibrée*](https://radioo.online/programme/330/), Radio O, avec David Christoffel.<br>
-2020 [*Le boomerang de Sylvie*](https://soundcloud.com/user-889063604/le-boomerang-de-sylvie), Maison des écrivains et de la littérature, avec David Christoffel.<br>
-2020 [*La version améliorée du problème*](https://www.youtube.com/watch?v=Z5M5pkn3sQ0), vidéo, Festival Faim !, avec David Christoffel.<br>
-2020 [*Embobiner et choisir, petits contes sur l'amour et la sexualité au XXIe siècle*](https://www.revuefracas.com/deux-contes), création sonore, revue Fracas, avec David Christoffel.<br>
-2019 [*Une poutre qui devient tes yeux*](https://www.sitaudis.fr/Auditions/une-poutre-qui-devient-tes-yeux-1574924884.php), création sonore, Sitaudis.<br>
-2019 [*FUIR, petit conte sur l'amour et la sexualité au XXIe siècle*](http://tapin2.org/petit-conte-fuir), création sonore, Tapin².<br>
-2019 *La fête des voisins*, vidéo, Ut Pictura Poesis, Studio des poésies expérimentales, Paris (16 mars 2019).<br>
-2019 [*L'ascenseur*](https://supermoyenlesdisques.bandcamp.com/track/lascenseur-avec-ma-l-guesdon), Radio O repris dans Radio Toutlemonde vol.3 (Super Moyen), avec David Christoffel.<br>
-2018 [*L'ours dans la belette*](https://www.revue-chimeres.fr/L-ours-dans-la-belette), Chimères, avec David Christoffel.<br>
-2017 [*Pourquoi hanter les maisons, y vivre ensuite*](https://www.youtube.com/watch?v=XtDCA1ZDJ-w&t=301s), vidéo, Manifesten, Marseille.<br>
-2016 *Personne n'est arrivé pour le dire*, vidéo, Maison de la poésie de Nantes (14 janvier 2016).<br>
-2015 *Johnny Guitar est l'histoire d'un cowboy qui a échangé son arme contre une guitare*, vidéo, Nuit Général Instin, Maison de la Poésie, Paris (03 décembre 2015).<br>
-2015 *Antiguitar 1&2*, RADIO, avec Marie de Quatrebarbes (11-12 décembre 2015).<br>
+2020 - [*Une vie équilibrée*](https://radioo.online/programme/330/), Radio O, avec David Christoffel.<br>
+2020 - [*Le boomerang de Sylvie*](https://soundcloud.com/user-889063604/le-boomerang-de-sylvie), Maison des écrivains et de la littérature, avec David Christoffel.<br>
+2020 - [*La version améliorée du problème*](https://www.youtube.com/watch?v=Z5M5pkn3sQ0), vidéo, Festival Faim !, avec David Christoffel.<br>
+2020 - [*Embobiner et choisir, petits contes sur l'amour et la sexualité au XXIe siècle*](https://www.revuefracas.com/deux-contes), création sonore, revue Fracas, avec David Christoffel.<br>
+2019 - [*Une poutre qui devient tes yeux*](https://www.sitaudis.fr/Auditions/une-poutre-qui-devient-tes-yeux-1574924884.php), création sonore, Sitaudis.<br>
+2019 - [*FUIR, petit conte sur l'amour et la sexualité au XXIe siècle*](http://tapin2.org/petit-conte-fuir), création sonore, Tapin².<br>
+2019 - *La fête des voisins*, vidéo, Ut Pictura Poesis, Studio des poésies expérimentales, Paris (16 mars 2019).<br>
+2019 - [*L'ascenseur*](https://supermoyenlesdisques.bandcamp.com/track/lascenseur-avec-ma-l-guesdon), Radio O repris dans Radio Toutlemonde vol.3 (Super Moyen), avec David Christoffel.<br>
+2018 - [*L'ours dans la belette*](https://www.revue-chimeres.fr/L-ours-dans-la-belette), Chimères, avec David Christoffel.<br>
+2017 - [*Pourquoi hanter les maisons, y vivre ensuite*](https://www.youtube.com/watch?v=XtDCA1ZDJ-w&t=301s), vidéo, Manifesten, Marseille.<br>
+2016 - *Personne n'est arrivé pour le dire*, vidéo, Maison de la poésie de Nantes (14 janvier 2016).<br>
+2015 - *Johnny Guitar est l'histoire d'un cowboy qui a échangé son arme contre une guitare*, vidéo, Nuit Général Instin, Maison de la Poésie, Paris (03 décembre 2015).<br>
+2015 - *Antiguitar 1&2*, RADIO, avec Marie de Quatrebarbes (11-12 décembre 2015).<br>
 
 ---
 
 ## Éditions
 
-2019 [*La tête et les cornes #8*](https://la-tete-et-les-cornes.tumblr.com/) : textes de Carla Demierre, Lidia Riviello, Andrea De Alberti, Simona Menicocci, Christian Steinbacher, Grégoire Sourice, Elee Kraljii Gardiner, Ho, Lindsay Turner.<br>
-2019 [*La tête et les cornes #7*](https://la-tete-et-les-cornes.tumblr.com/) : textes de Mia You, Dagmara Kraus, Benjamin Hollander, Gilles Weinzaepflen, Ho, Ulf Stolterfoht, The Maw Naing.<br>
-2018 [*La tête et les cornes #6*](http://la-tete-et-les-cornes.tumblr.com/post/172197348200/parution-de-la-t%C3%AAte-et-les-cornes-n-5) : textes de Dagmara Kraus, Rosmarie Waldrop, Nils Christian Moe Repstad, Seung-Hee Kim, Maxime Hortense Pascal et Mia You.<br>
-2018 [*La tête et les cornes #5*](http://la-tete-et-les-cornes.tumblr.com/post/172197348200/parution-de-la-t%C3%AAte-et-les-cornes-n-5) : textes de Jørn H Sværen, Ben Lerner, Paal Bjelke Andersen, Dominique Quélen, Marie Silkeberg, Silje Vethal, Michèle Métail.<br>
-2017 [*La tête et les cornes #4*](http://la-tete-et-les-cornes.tumblr.com/post/167590216560/parution-de-la-t%C3%AAte-et-les-cornes-n-4) : textes de Peter Waterhouse, Lindsay Turner, Hugo Pernet, Keith Waldrop, Nils Christian Moe-Repstad, Dawn Lundy Martin, Silje Vethal, Mei-Mei Berssenbrugge, Jacques Roubaud, Jørn H. Sværen.<br>
-2017 [*La tête et les cornes #3*](http://la-tete-et-les-cornes.tumblr.com/post/165823511060/parution-de-avec-alain-cavalier-1-entretien-12), "avec Alain Cavalier, 1 entretien, 12 textes".<br>
-2015 *La tête et les cornes #2* : textes de Linnéa Eriksson, Beata Berggren, Adam Westman, Niclas Nilsson, Martin Högström, Peter Thörneby, Jørn H. Sværen, Virgil Mazilescu, Peter Waterhouse, Peter Gizzi, Chu Halim, Victoria Xardel, Julien Maret, Cécile Mainardi, Danielle Mémoire.<br>
-2014 *La tête et les cornes #1* : textes de Marie-louise Chapelle, Alan Davies, Marc Perrin, Marie Cosnay, Caroline Sagot Duvauroux, An Hyŏnmi, Ch'oi Kŭmjin, Kim Chudae, Lee Ch'ŏlsŏng, Lee Chaehun, Hŏ Yŏn, Marie-Hélène Renoux, Alice Notley.<br>
-2014 [*Série z :*](http://zdeuxpoints.tumblr.com/seriez) textes de Patrick Beurard-Valdoye, Nicole Caligaris, Pierre Drogi, Lucie Taïeb, Arno Bertina, Stéphane Bouquet, Anne Kawala, Fabienne Raphoz, Maël Guesdon, Cécile Mainardi, Martin Richet, Caroline Sagot Duvauroux, Marie Cosnay, Stéphane Korvin, Christophe Manon, Marie de Quatrebarbes.<br>
+2019 - [*La tête et les cornes #8*](https://la-tete-et-les-cornes.tumblr.com/) : textes de Carla Demierre, Lidia Riviello, Andrea De Alberti, Simona Menicocci, Christian Steinbacher, Grégoire Sourice, Elee Kraljii Gardiner, Ho, Lindsay Turner.<br>
+2019 - [*La tête et les cornes #7*](https://la-tete-et-les-cornes.tumblr.com/) : textes de Mia You, Dagmara Kraus, Benjamin Hollander, Gilles Weinzaepflen, Ho, Ulf Stolterfoht, The Maw Naing.<br>
+2018 - [*La tête et les cornes #6*](http://la-tete-et-les-cornes.tumblr.com/post/172197348200/parution-de-la-t%C3%AAte-et-les-cornes-n-5) : textes de Dagmara Kraus, Rosmarie Waldrop, Nils Christian Moe Repstad, Seung-Hee Kim, Maxime Hortense Pascal et Mia You.<br>
+2018 - [*La tête et les cornes #5*](http://la-tete-et-les-cornes.tumblr.com/post/172197348200/parution-de-la-t%C3%AAte-et-les-cornes-n-5) : textes de Jørn H Sværen, Ben Lerner, Paal Bjelke Andersen, Dominique Quélen, Marie Silkeberg, Silje Vethal, Michèle Métail.<br>
+2017 - [*La tête et les cornes #4*](http://la-tete-et-les-cornes.tumblr.com/post/167590216560/parution-de-la-t%C3%AAte-et-les-cornes-n-4) : textes de Peter Waterhouse, Lindsay Turner, Hugo Pernet, Keith Waldrop, Nils Christian Moe-Repstad, Dawn Lundy Martin, Silje Vethal, Mei-Mei Berssenbrugge, Jacques Roubaud, Jørn H. Sværen.<br>
+2017 - [*La tête et les cornes #3*](http://la-tete-et-les-cornes.tumblr.com/post/165823511060/parution-de-avec-alain-cavalier-1-entretien-12), "avec Alain Cavalier, 1 entretien, 12 textes".<br>
+2015 - *La tête et les cornes #2* : textes de Linnéa Eriksson, Beata Berggren, Adam Westman, Niclas Nilsson, Martin Högström, Peter Thörneby, Jørn H. Sværen, Virgil Mazilescu, Peter Waterhouse, Peter Gizzi, Chu Halim, Victoria Xardel, Julien Maret, Cécile Mainardi, Danielle Mémoire.<br>
+2014 - *La tête et les cornes #1* : textes de Marie-louise Chapelle, Alan Davies, Marc Perrin, Marie Cosnay, Caroline Sagot Duvauroux, An Hyŏnmi, Ch'oi Kŭmjin, Kim Chudae, Lee Ch'ŏlsŏng, Lee Chaehun, Hŏ Yŏn, Marie-Hélène Renoux, Alice Notley.<br>
+2014 - [*Série z :*](http://zdeuxpoints.tumblr.com/seriez) textes de Patrick Beurard-Valdoye, Nicole Caligaris, Pierre Drogi, Lucie Taïeb, Arno Bertina, Stéphane Bouquet, Anne Kawala, Fabienne Raphoz, Maël Guesdon, Cécile Mainardi, Martin Richet, Caroline Sagot Duvauroux, Marie Cosnay, Stéphane Korvin, Christophe Manon, Marie de Quatrebarbes.<br>
 
 ---
 
 ## Traductions
 
-2019 Dawn Lundy Martin, [*Discipline*](http://www.jocaseria.fr/Catalogue/Livres/Fiche%20livre/discipline.html), co-traduit de l'anglais (américain) avec Marie de Quatrebarbes et Benoît Berthelier, Joca Seria, collection américaine dirigée par Olivier Brossard, 2019.
+2019 - Dawn Lundy Martin, [*Discipline*](http://www.jocaseria.fr/Catalogue/Livres/Fiche%20livre/discipline.html), co-traduit de l'anglais (américain) avec Marie de Quatrebarbes et Benoît Berthelier, Joca Seria, collection américaine dirigée par Olivier Brossard, 2019.
 
 ---
 
