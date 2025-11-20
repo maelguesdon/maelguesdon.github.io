@@ -144,6 +144,14 @@ title: Maël Guesdon
 
 2019 - Dawn Lundy Martin, [*Discipline*](http://www.jocaseria.fr/Catalogue/Livres/Fiche%20livre/discipline.html), co-traduit de l'anglais (américain) avec Marie de Quatrebarbes et Benoît Berthelier, Joca Seria, collection américaine dirigée par Olivier Brossard, 2019.
 
+En revues :
+2019 *Somnologies$ de Lidia Riviello, avec Andrea De Alberti, Frédéric Forte, Emmanuèle Jawad, Simona Menicocci, Lidia Riviello et Andrea Franzoni, revue La tête et les cornes 8.
+2019 *Le refoulement du conflit$ d'Andrea De Alberti, avec Andrea De Alberti, Frédéric Forte, Emmanuèle Jawad, Simona Menicocci, Lidia Riviello et Andrea Franzoni, revue La tête et les cornes 8.
+2019 *La mer est pleine de poissons$ de Simona Menicocci, avec Andrea De Alberti, Frédéric Forte, Emmanuèle Jawad, Simona Menicocci, Lidia Riviello et Andrea Franzoni, revue La tête et les cornes 8.
+2018 *aphanisis (anamorfos)* de Marie Silkebeg (CHATEAUX, Suède, 2013), avec Martin Högström et Marie de Quatrebarbes, revue La tête et les cornes 5.
+2017 *Notre errance* de Dawn Lundy Martin ("Our wandering", Poetry magazine, issue of April 2016), avec Marie de Quatrebarbes, revue La tête et les cornes 4.
+2016 [*Fais attention quand tu voles, Kippie !*](http://remue.net/Beata-Berggren-Fais-attention-quand-tu-voles-Kippie) de Beata Berggren (« Flyg försiktigt, Kippie! », Korrex Press Nr. 6, 2015, Suède), avec Martin Högström, Marie de Quatrebarbes et Beata Berggren, dossier « Poésie Scandinave » de remue.net.
+
 ---
 
 ## Contact
