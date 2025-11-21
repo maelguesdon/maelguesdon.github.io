@@ -58,7 +58,7 @@ title: Maël Guesdon
 2014 - [*Vision générale de la côte rocheuse*](http://www.sarrazine.com/node/25), revue Sarrazine n°14, (H)or(s).<br>
 2014 - *Sorgue*, Les carnets d'Eucharis, n°43.<br>
 2014 - *Voici le genre de choses dont nous pourrions témoigner*, remue.net.<br>
-2013 - [*Bréviaire à l'usage des Sœurs Mineures. Fragments de Suzanne Lindelton*](http://laviemanifeste.com/archives/8428), La vie manifeste.<br>
+2013 - [*Bréviaire à l'usage des Sœurs Mineures*](http://laviemanifeste.com/archives/8428), La vie manifeste.<br>
 2013 - [*Sauf*](http://remue.net/spip.php?article6055), remue.net.<br>
 2013 - [*You want confidence*](http://matterofmalaise.blogspot.fr/2013/06/you-want-confidence.html), Matter of malaise.<br>
 2013 - *Série sombre tête court*, Verso n°155.<br>
@@ -117,13 +117,13 @@ title: Maël Guesdon
 2020 - [*Embobiner et choisir, petits contes sur l'amour et la sexualité au XXIe siècle*](https://www.revuefracas.com/deux-contes), création sonore, revue Fracas, avec David Christoffel.<br>
 2019 - [*Une poutre qui devient tes yeux*](https://www.sitaudis.fr/Auditions/une-poutre-qui-devient-tes-yeux-1574924884.php), création sonore, Sitaudis.<br>
 2019 - [*FUIR, petit conte sur l'amour et la sexualité au XXIe siècle*](http://tapin2.org/petit-conte-fuir), création sonore, Tapin².<br>
-2019 - *La fête des voisins*, vidéo, Ut Pictura Poesis, Studio des poésies expérimentales, Paris (16 mars 2019).<br>
+2019 - *La fête des voisins*, vidéo, Ut Pictura Poesis, Studio des poésies expérimentales, Paris (16/03/2019).<br>
 2019 - [*L'ascenseur*](https://supermoyenlesdisques.bandcamp.com/track/lascenseur-avec-ma-l-guesdon), Radio O repris dans Radio Toutlemonde vol.3 (Super Moyen), avec David Christoffel.<br>
 2018 - [*L'ours dans la belette*](https://www.revue-chimeres.fr/L-ours-dans-la-belette), Chimères, avec David Christoffel.<br>
 2017 - [*Pourquoi hanter les maisons, y vivre ensuite*](https://www.youtube.com/watch?v=XtDCA1ZDJ-w&t=301s), vidéo, Manifesten, Marseille.<br>
-2016 - *Personne n'est arrivé pour le dire*, vidéo, Maison de la poésie de Nantes (14 janvier 2016).<br>
-2015 - *Johnny Guitar est l'histoire d'un cowboy qui a échangé son arme contre une guitare*, vidéo, Nuit Général Instin, Maison de la Poésie, Paris (03 décembre 2015).<br>
-2015 - *Antiguitar 1&2*, RADIO, avec Marie de Quatrebarbes (11-12 décembre 2015).<br>
+2016 - *Personne n'est arrivé pour le dire*, vidéo, Maison de la poésie de Nantes (14/01/2016).<br>
+2015 - *Johnny Guitar est l'histoire d'un cowboy qui a échangé son arme contre une guitare*, vidéo, Nuit Général Instin, Maison de la Poésie, Paris (03/12/2015).<br>
+2015 - *Antiguitar 1&2*, RADIO, avec Marie de Quatrebarbes (12/12/2015).<br>
 
 ---
 
