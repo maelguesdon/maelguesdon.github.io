@@ -8,8 +8,8 @@ title: Maël Guesdon
 2025 - [*Le bien-être par la poésie. Manuel de contre-culture psychique*](https://www.editions-mf.com/produit/157/9782378040932/le-bien-etre-par-la-poesie), éditions MF, avec David Christoffel. <br>
 2021 - [*Mon plan*](https://editions-corti.fr/livres/mon-plan), Corti.<br>
 2015 - [*Voire*](https://editions-corti.fr/livres/voire), Corti.<br>
-  Traduction italienne : [*Ovvero*](https://lietocolle.ecwid.com/Ovvero-Ma%C3%ABl-Guesdon-p145443004), Lietocolle, traduit par Fabiana Bartuccelli, 2019.<br>
-  Traduction danoise : [*Endda*](http://forlagetarena.dk/udgivelser/endda/), Arena - H//O//F, traduit par Morten Chemnitz, 2017.<br>
+  Traduction italienne par Fabiana Bartuccelli : [*Ovvero*](https://lietocolle.ecwid.com/Ovvero-Ma%C3%ABl-Guesdon-p145443004), Lietocolle, 2019.<br>
+  Traduction danoise par Morten Chemnitz : [*Endda*](http://forlagetarena.dk/udgivelser/endda/), Arena - H//O//F, 2017.<br>
 2013 - *Sorgue*, La Crypte, Prix de la Crypte – Jean Lalaude.<br>
 
 ---
