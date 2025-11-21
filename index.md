@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Maël Guesdon
+title:
 ---
 
 ## Livres
