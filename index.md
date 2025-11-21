@@ -38,12 +38,12 @@ title: Maël Guesdon
 2018 - [*Ovvero*](https://www.nazioneindiana.com/2018/10/22/ovvero-voire-2/), traduit en italien par Fabiana Bartuccelli, Nazione Indiana.<br>
 2018 - [Mayday](http://ripforever.xyz/), [RIP 1.2](https://editions-mix.com/faire/).<br>
 2018 - [*La fête des voisins*](https://editionsmixdotcom.files.wordpress.com/2019/06/faire004-2.pdf), [*faire* #004](https://editions-mix.com/faire/), avec David Christoffel.<br>
-2018 - *The beginnings*, traduit en anglais par Lindsay Turner, revue [Transnational Literature](http://fhrc.flinders.edu.au/transnational/current.html).<br>
-2018 - *Léger salut*, [revue Espace(s) #16](http://www.lespressesdureel.com/ouvrage.php?id=6381&menu=).<br>
+2018 - [*The beginnings*](http://fhrc.flinders.edu.au/transnational/current.html), traduit en anglais par Lindsay Turner, revue Transnational Literature.<br>
+2018 - [*Léger salut*](http://www.lespressesdureel.com/ouvrage.php?id=6381&menu=), revue Espace(s) #16.<br>
 2018 - *L'arrivée de la vie sur Terre*, Ce qui secret revue matérielle #3, avec Julie Morel.<br>
 2018 - *L'indis*, Duos - Anthologie, Bacchannales n°59.<br>
-2017 - *Personne n'est arrivé pour le dire* (extrait), [Gare Maritime](http://maisondelapoesie-nantes.com/gare-maritime-3/), Maison de la poésie de Nantes.<br>
-2017 - *Pourquoi hanter les maisons, y vivre ensuite*, [revue Muscle](http://revuemuscle.tumblr.com).<br>
+2017 - [*Personne n'est arrivé pour le dire* (extrait)](http://maisondelapoesie-nantes.com/gare-maritime-3/), Gare Maritime, Maison de la poésie de Nantes.<br>
+2017 - [*Pourquoi hanter les maisons, y vivre ensuite*](http://revuemuscle.tumblr.com), revue Muscle.<br>
 2016 - *Personne n'est arrivé pour le dire*, trad. Martin Högström, CHATEAUX (Suède).<br>
 2016 - *Totale lumière sur*, Poezibao.<br>
 2016 - [*Retourner*](https://cequisecret.net/retourner), revue Ce qui secret, Capitalisme & Schizophrénie, avec Julie Morel.<br>
@@ -53,9 +53,9 @@ title: Maël Guesdon
 2015 - [*Entrer*](https://revuespam.wordpress.com/2015/07/01/24-mael-guesdon-entrer/), SPiced hAM.<br>
 2014 - [*Théorie du projet Général Instin. Fragments de Suzanne Lindelton*](http://remue.net/spip.php?article7065), remue.net.<br>
 2014 - [*Medvekine for ever*](http://laviemanifeste.com/wp-content/uploads/2014/08/FaceAFaceB03.pdf), [Face A/ Face B](http://laviemanifeste.com/face-a-face-b), La Vie Manifeste.<br>
-2014 - *Catiches*, [Série z : 3](http://zdeuxpoints.tumblr.com/post/88098138932/sortie-de-z-2).<br>
-2014 - *Sorna*, revue [Mula Blanca](http://mulablanca.com), n°9, traduit en espagnol par Laura Petrecca et Javier Sabarros.<br>
-2014 - *Vision générale de la côte rocheuse*, [revue Sarrazine n°14](http://www.sarrazine.com/node/25), (H)or(s).<br>
+2014 - [*Catiches*](http://zdeuxpoints.tumblr.com/post/88098138932/sortie-de-z-2), Série z : 3.<br>
+2014 - [*Sorna*](http://mulablanca.com), revue Mula Blanca, n°9, traduit en espagnol par Laura Petrecca et Javier Sabarros.<br>
+2014 - [*Vision générale de la côte rocheuse*](http://www.sarrazine.com/node/25), revue Sarrazine n°14, (H)or(s).<br>
 2014 - *Sorgue*, Les carnets d'Eucharis, n°43.<br>
 2014 - *Voici le genre de choses dont nous pourrions témoigner*, remue.net.<br>
 2013 - [*Bréviaire à l'usage des Sœurs Mineures. Fragments de Suzanne Lindelton*](http://laviemanifeste.com/archives/8428), La vie manifeste.<br>
@@ -65,7 +65,7 @@ title: Maël Guesdon
 2013 - *Choses habitée.s*, revue Coaltar.<br>
 2013 - *Suzie et Fred. Fragments de Suzanne Lindelton*, revue Aka n°2.<br>
 2013 - *Va*, revue Aka n°1.<br>
-2013 - *Close là*, [revue Ouste n°21](https://ferocemarquise.org/ouste-n21-conspiration-2013/), Féroce marquise/Dernier Télégramme.<br>
+2013 - [*Close là*](https://ferocemarquise.org/ouste-n21-conspiration-2013/), revue Ouste n°21, Féroce marquise/Dernier Télégramme.<br>
 2013 - *À l'enseigne*, éditions Chatoyantes.<br>
 2012 - [*Qui d'eux dans chaque voix*](https://cequisecret.net/oui218), revue Ce qui secret.<br>
 2012 - *Ensemble des questions*, revue Contre-allées n°31/32.<br>
