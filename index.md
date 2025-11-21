@@ -16,7 +16,7 @@ title: Maël Guesdon
 
 ## Revues littéraires, anthologies, ouvrages collectifs
 
-2025 - [*Me suis-je sympa, se dit je ?*](https://editionskime.fr/produit/machines-sympathiques/), Juliette Grange, Sylvie Humbert-Mougin et Anne Ullmo, *Machines sympathiques ?*, éditions Kimé.<br>
+2025 - [*Me suis-je sympa, se dit je ?*](https://editionskime.fr/produit/machines-sympathiques/), Juliette Grange, Sylvie Humbert-Mougin et Anne Ullmo, *Machines sympathiques ?*, éditions Kimé, avec David Christoffel.<br>
 2024 - [*L'intérieur d'un animal enfermé dans une cage*](https://www.la-marelle.org/productions/editions-la-marelle/1504-mael-guesdon-la-revue.html), La Marelle - Cipm.<br> 2024 - [*Les aliens, la musique et nous*](https://www.multitudes.net/les-aliens-la-musique-et-nous/), revue Multitudes n°94, avec David Christoffel.<br> 
 2023 - *Hypothèses de démarrage*, [Le vent des signes](https://www.leventdessignes.fr/hypotheses-de-demarrage/), avec Charles Robinson et Emmanuel Adely.<br>
 2023 - *Le rire de Parméniscos*, [revue Nioques n°27](http://revuenioques.fr/parution-de-nioques-27/).<br>
@@ -79,6 +79,7 @@ title: Maël Guesdon
 
 ## Revues scientifiques, chapitres d'ouvrages collectifs, actes de colloques
 
+2024 - « 1837 : l'agencement Schumann dans *Mille Plateaux*», Yoann Hervey-Fortunet (dir.), *Lectures de Deleuze*, Paris, Ellipses.<br>
 2019 - « De la clinique à la musique : stéréotypies psychiatriques et ritournelles deleuzo-guattariennes », Querrien, Anne, Sauvagnargues, Anne et Villani, Arnaud (dir.), [Agencer les multiplicités avec Deleuze](http://www.ccic-cerisy.asso.fr/deleuzeTM19.html), Paris, Hermann Éditeurs.<br>
 2016 - « Une voix sans corps pour des corps sans voix. À propos des hologrammes en général et d'Hatsune Miku en particulier », Le Guern, Philippe (dir.), [*Où va la musique ? Numérimorphose et nouvelles expériences d'écoute*](https://www.pressesdesmines.com/produit/ou-va-la-musique/), Presses des mines, 2016. Avec Philippe Le Guern.<br>
 2015 - « Même les constantes sont pour la variation. Sur trois usages de la mélodie dans Capitalisme et schizophrénie », Criton, Pascale et Chouvel, Jean-Marc (dir.), [*Gilles Deleuze. La pensée-musique*](http://www.cdmc.asso.fr/fr/ressources/publications/gilles-deleuze-pensee-musique), Paris, Éditions du Centre de documentation de la Musique Contemporaine.<br>
