@@ -93,9 +93,9 @@ title: Maël Guesdon
 
 ## Performances, lectures, rencontres
 
-2025 - *Le bien-être par la poésie*, rencontre, Librairie Comment dire, Rennes (15 octobre 2025).<br>
-2025 - *Le bien-être par la poésie*, rencontre, Librairie Zoème, Marseille (26 septembre 2025).<br>
-2025 - *Le bien-être par la poésie*, rencontre, L'Ours et la vieille grille, Paris (24 septembre 2025).<br>
+2025 - *Le bien-être par la poésie*, Librairie Comment dire, Rennes (15 octobre 2025).<br>
+2025 - *Le bien-être par la poésie*, Librairie Zoème, Marseille (26 septembre 2025).<br>
+2025 - *Le bien-être par la poésie*, L'Ours et la vieille grille, Paris (24 septembre 2025).<br>
 2024 - *Matière paresseuse et matières zélées*, [Le petit faucheux](https://petitfaucheux.fr/mael-guesdon), Tours (12 mars 2024).<br>
 2023 - *Définitivement mèmes*, avec Elsa Boyer, [CIPM / L'odeur du temps](https://cipmarseille.fr/chronologie/4624), Marseille (26 octobre 2023).<br>
 2023 - *Le rire de Parmeniscos, pourquoi hanter*, lecture, [Festival Tournez la plage](https://www.larthicethoc.com/festival), La Ciotat (5 août 2023).<br>
