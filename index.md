@@ -18,23 +18,23 @@ title: Maël Guesdon
 
 2025 - [*Me suis-je sympa, se dit je ?*](https://editionskime.fr/produit/machines-sympathiques/), Juliette Grange, Sylvie Humbert-Mougin et Anne Ullmo, *Machines sympathiques ?*, éditions Kimé, avec David Christoffel.<br>
 2024 - [*L'intérieur d'un animal enfermé dans une cage*](https://www.la-marelle.org/productions/editions-la-marelle/1504-mael-guesdon-la-revue.html), La Marelle - Cipm.<br> 2024 - [*Les aliens, la musique et nous*](https://www.multitudes.net/les-aliens-la-musique-et-nous/), revue Multitudes n°94, avec David Christoffel.<br> 
-2023 - *Hypothèses de démarrage*, [Le vent des signes](https://www.leventdessignes.fr/hypotheses-de-demarrage/), avec Charles Robinson et Emmanuel Adely.<br>
-2023 - *Le rire de Parméniscos*, [revue Nioques n°27](http://revuenioques.fr/parution-de-nioques-27/).<br>
+2023 - [*Hypothèses de démarrage*](https://www.leventdessignes.fr/hypotheses-de-demarrage/), Le vent des signes, avec Charles Robinson et Emmanuel Adely.<br>
+2023 - [*Le rire de Parméniscos*](http://revuenioques.fr/parution-de-nioques-27/), revue Nioques n°27.<br>
 2022 - [*Le lynchage à la tomate*](https://journals.openedition.org/transposition/6809), revue Transposition n°10, avec David Christoffel (traduction anglaise de Fanny Quément : [*Tomato bashing*](https://journals.openedition.org/transposition/6874)).<br>
 2021  - *Série courante*, revue Le bout des Bordes n°15, avec Marie de Quatrebarbes.<br>
-2021  - *Étude sur la poly-instabilité du contre-effet boomerang*, [revue BoXon n°34](http://tapin2.org/boxon-34), avec David Christoffel.<br>
+2021  - [*Étude sur la poly-instabilité du contre-effet boomerang*](http://tapin2.org/boxon-34), revue BoXon n°34, avec David Christoffel.<br>
 2021  - [*Il mio plano*](https://www.nazioneindiana.com/2021/08/20/il-mio-piano/), traduit en italien par Laura Giuliberti, Nazione Indiana.<br>
 2021  - [*Actualités de l'entre-nous*](https://www.cairn.info/revue-multitudes-2021-1-page-125.htm), [revue Multitudes n°81](https://www.multitudes.net/category/l-edition-papier-en-ligne/82-multitudes-82-printemps-2021/), avec David Christoffel.<br>
 2020  - [*Oiseaux et drones*](https://www.cairn.info/revue-multitudes-2020-3-page-150.htm), [revue Multitudes n°80](https://www.multitudes.net/category/l-edition-papier-en-ligne/80-multitudes-80-automne-2020/), avec David Christoffel.<br>
 2020  - *Superfluités*, revue Teste n°39, avec Marie de Quatrebarbes.<br>
-2020  - *Dawn Lundy Martin*, [Gare Maritime](http://maisondelapoesie-nantes.com/gare-maritime-3/), Maison de la poésie de Nantes, avec Marie de Quatrebarbes.<br>
+2020  - [*Dawn Lundy Martin*](http://maisondelapoesie-nantes.com/gare-maritime-3/), Gare Maritime, Maison de la poésie de Nantes, avec Marie de Quatrebarbes.<br>
 2020  - [*Dos pequeños cuentos sobre el amor y la sexualidad en el siglo XXI*](https://www.revuefracas.com/dos-cuentos), traduit en espagnol par Alejandro Bianco, revue Fracas, avec David Christoffel.<br>
-2020  - *Gérer son beau monde*, [revue ouste n°28](https://ferocemarquise.org/ouste-n28-conspiration-2020/), Féroce marquise/Dernier Télégramme, avec David Christoffel.<br>
-2019  - *Scènes d'ouverture*, [revue Phoenix n°32](https://www.revuephoenix.com/parution-n-32-ete-2019/), avec Marie de Quatrebarbes.<br>
-2019  - *Brouillons rétrospectifs du discours du Président Nixon en cas d'échec de la mission Apollo 11*, [revue Espace(s) #18](http://www.cnes-observatoire.net/ode-publications/2019-10-08_parution-espaces-18/parution-revue-espaces-18.html), avec David Christoffel.<br>
+2020  - [*Gérer son beau monde*](https://ferocemarquise.org/ouste-n28-conspiration-2020/), revue ouste n°28, Féroce marquise/Dernier Télégramme, avec David Christoffel.<br>
+2019  - [*Scènes d'ouverture*](https://www.revuephoenix.com/parution-n-32-ete-2019/), revue Phoenix n°32, avec Marie de Quatrebarbes.<br>
+2019  - [*Brouillons rétrospectifs du discours du Président Nixon en cas d'échec de la mission Apollo 11*](http://www.cnes-observatoire.net/ode-publications/2019-10-08_parution-espaces-18/parution-revue-espaces-18.html), revue Espace(s) #18, avec David Christoffel.<br>
 2019 - *Séjour sur le plan physique*, revue Teste n°35, avec Marie de Quatrebarbes.<br>
-2019 - *L'embobinage infini*, [revue ouste n°27](https://ferocemarquise.org/ouste-n27-conspiration-2019/), Féroce marquise/Dernier Télégramme, avec David Christoffel.<br>
-2019 - *Tout pour la fête*, [revue Espace(s) #17](http://www.lespressesdureel.com/ouvrage.php?id=7136&menu=), avec David Christoffel.<br>
+2019 - [*L'embobinage infini*](https://ferocemarquise.org/ouste-n27-conspiration-2019/), revue ouste n°27, Féroce marquise/Dernier Télégramme, avec David Christoffel.<br>
+2019 - [*Tout pour la fête*](http://www.lespressesdureel.com/ouvrage.php?id=7136&menu=), revue Espace(s) #17, avec David Christoffel.<br>
 2018 - [*Ovvero*](https://www.nazioneindiana.com/2018/10/22/ovvero-voire-2/), traduit en italien par Fabiana Bartuccelli, Nazione Indiana.<br>
 2018 - [Mayday](http://ripforever.xyz/), [RIP 1.2](https://editions-mix.com/faire/).<br>
 2018 - [*La fête des voisins*](https://editionsmixdotcom.files.wordpress.com/2019/06/faire004-2.pdf), [*faire* #004](https://editions-mix.com/faire/), avec David Christoffel.<br>
