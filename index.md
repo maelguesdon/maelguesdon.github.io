@@ -17,7 +17,7 @@ title: Maël Guesdon
 ## Revues littéraires, anthologies, ouvrages collectifs
 
 2024 - [*L'intérieur d'un animal enfermé dans une cage*](https://www.la-marelle.org/productions/editions-la-marelle/1504-mael-guesdon-la-revue.html), La Marelle - Cipm.<br>
-2024 - [*L'intérieur d'un animal enfermé dans une cage*](https://www.multitudes.net/les-aliens-la-musique-et-nous/), revue Multitudes n°94, avec David Christoffel.<br> 
+2024 - [*Les aliens, la musique et nous*](https://www.multitudes.net/les-aliens-la-musique-et-nous/), revue Multitudes n°94, avec David Christoffel.<br> 
 2023 - *Hypothèses de démarrage*, [Le vent des signes](https://www.leventdessignes.fr/hypotheses-de-demarrage/), avec Charles Robinson et Emmanuel Adely.<br>
 2023 - *Le rire de Parméniscos*, [revue Nioques n°27](http://revuenioques.fr/parution-de-nioques-27/).<br>
 2022 - [*Le lynchage à la tomate*](https://journals.openedition.org/transposition/6809), revue Transposition n°10, avec David Christoffel (traduction anglaise de Fanny Quément : [*Tomato bashing*](https://journals.openedition.org/transposition/6874)).<br>
