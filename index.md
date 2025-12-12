@@ -128,38 +128,39 @@ title: Maël Guesdon
 ---
 
 ## Réception critique et entretiens
-2022 Entretien avec Paul de Brancion à propos de Mon plan, « Chute libre », Aligre FM (18 novembre 2022).<br>
-2022 En bifurquant dans la lenteur de la langue, entretien avec Jean-Philippe Cazier, Diacritik.<br>
-2022 Tristan Hordé, Chronique de Mon plan, Sitaudis.<br>
-2022 Jacques Josse, Chronique de Mon plan, remue.net.<br>
-2021 Florent Lahache, La poésie n'est pas une hygiène mentale, à propos de Mon plan, Diacritik.<br>
-2021 Jean-Philippe Cazier, L'enfance fantôme, à propos de Mon plan, Diacritik.<br>
-2021 Sébastien Dubois, Note de lecture, à propos de Mon plan, Poezibao.<br>
-2021 Adrien Meignan, Chronique de Mon plan, Un dernier livre avant la fin du monde.<br>
-2021 Guillaume Condello, La vie des images, à propos de Mon plan, Revue Catastrophes.<br>
-2019 Petits laboratoires de poche, entretien avec Tristan Hordé, Revue Europe, N° 1077-1078 (janvier-février 2019).<br>
-2019 La lorgnette du cinéma / The lens of cinema, entretien avec (et traduit par) Carrie Chappell, Verse of April (avril 2019).<br>
-2018 Didier Cahen, Trans|Poésie. Passe-passe, Le Monde.<br>
-2017 Mikkel Krause Frantzen, Nogle gange er der vigtigere ting i verden end betydning, Chronique de Endda, Politiken.<br>
-2017 Kirsten Vestergaard Mikkelsen, Chronique de Endda, Poesiens Hus.<br>
-2017 Stéréotypies et ritournelles, entretien avec David Christoffel, émission « Les Experts », La webradio du Printemps des Arts de Monte-Carlo (29 mars 2017).<br>
-2017 Entretien avec Thomas Pietrois-Chabassier, Revue Mastermind #01.<br>
-2017 Marc Perrin, Gare Maritime, Maison de la poésie de Nantes.<br>
-2016 Marc Perrin, Chronique de Voire, remue.net.<br>
-2016 Entretien avec Michel Sourget à propos de Voire, « Les draps dans les mots », radio AlterNantes.<br>
-2016 Lecture de Voire par Philippe Guitton, émission « Cela Dit », Radio Saint-Affrique (10 janvier 2016). 2015 Jean-Philippe Cazier, Maël Guesdon : l’expérience de la poésie, Mediapart.<br>
-2015 Présences minoritaires, entretien avec Donatien Garnier, revue Éclairs (17 septembre 2015).<br>
-2015 Etienne Faure, Chronique de Voire, CCP.<br>
-2015 Serge Martin, In-finir au féminin : Maël Guesdon ou le poème pour voir(e), Résonance générale 7.<br>
-2015 Xavier Person, Se taire sans se taire, Chronique de Voire, Le Matricule des Anges #160.<br>
-2015 Emmanuèle Jawad, Chronique de Voire, Sitaudis.<br>
-2015 Caroline Sagot Duvauroux, Chronique de Voire, Poezibao.<br>
-2015 Sanda Voïca, La poésie comme rapt, Chronique de Voire, Paysage écrits n°24.<br>
-2015 Jean-Paul Gavard-Perret, Abîmes et labyrinthes, e-litterature.net.<br>
-2015 Jean-Paul Gavard-Perret, Chronique de Voire, le litteraire.<br>
-2015 Fabrice Thumerel, Chronique de Voire, Libr-critique.<br>
-2015 Marie-Josée Desvignes, Chronique de Voire, recours au poème.<br>
-2014 Cécile Guivarch, Chronique de sorgue, Terre à Ciel.<br>
+2022 - Entretien avec Paul de Brancion à propos de *Mon plan*, « Chute libre », Aligre FM (18 novembre 2022).<br>
+2022 - *En bifurquant dans la lenteur de la langue*, entretien avec Jean-Philippe Cazier, Diacritik.<br>
+2022 - Tristan Hordé, Chronique de *Mon plan*, Sitaudis.<br>
+2022 - Jacques Josse, Chronique de *Mon plan*, remue.net.<br>
+2021 - Florent Lahache, *La poésie n'est pas une hygiène mentale*, à propos de *Mon plan*, Diacritik.<br>
+2021 - Jean-Philippe Cazier, *L'enfance fantôme*, à propos de *Mon plan*, Diacritik.<br>
+2021 - Sébastien Dubois, Note de lecture, à propos de *Mon plan*, Poezibao.<br>
+2021 - Adrien Meignan, Chronique de *Mon plan*, Un dernier livre avant la fin du monde.<br>
+2021 - Guillaume Condello, *La vie des images*, à propos de *Mon plan*, Revue Catastrophes.<br>
+2019 - *Petits laboratoires de poche*, entretien avec Tristan Hordé, *Revue Europe*, N° 1077-1078 (janvier-février 2019).<br>
+2019 - *La lorgnette du cinéma / The lens of cinema*, entretien avec (et traduit par) Carrie Chappell, Verse of April (avril 2019).<br>
+2018 - Didier Cahen, *Trans|Poésie. Passe-passe*, Le Monde.<br>
+2017 - Mikkel Krause Frantzen, *Nogle gange er der vigtigere ting i verden end betydning*, Chronique de *Endda*, Politiken.<br>
+2017 - Kirsten Vestergaard Mikkelsen, Chronique de *Endda*, Poesiens Hus.<br>
+2017 - *Stéréotypies et ritournelles*, entretien avec David Christoffel, émission « Les Experts », La webradio du Printemps des Arts de Monte-Carlo (29 mars 2017).<br>
+2017 - Entretien avec Thomas Pietrois-Chabassier, Revue Mastermind #01.<br>
+2017 - Marc Perrin, *Gare Maritime*, Maison de la poésie de Nantes.<br>
+2016 - Marc Perrin, Chronique de *Voire*, remue.net.<br>
+2016 - Entretien avec Michel Sourget à propos de *Voire*, « Les draps dans les mots », radio AlterNantes.<br>
+2016 - Lecture de *Voire* par Philippe Guitton, émission « Cela Dit », Radio Saint-Affrique (10 janvier 2016).<br>
+2015 - Jean-Philippe Cazier, *Maël Guesdon : l’expérience de la poésie*, Mediapart.<br>
+2015 - *Présences minoritaires*, entretien avec Donatien Garnier, revue Éclairs (17 septembre 2015).<br>
+2015 - Etienne Faure, Chronique de *Voire*, CCP.<br>
+2015 - Serge Martin, *In-finir au féminin : Maël Guesdon ou le poème pour voir(e)*, Résonance générale 7.<br>
+2015 - Xavier Person, *Se taire sans se taire*, Chronique de *Voire*, Le Matricule des Anges #160.<br>
+2015 - Emmanuèle Jawad, Chronique de *Voire*, Sitaudis.<br>
+2015 - Caroline Sagot Duvauroux, Chronique de *Voire*, Poezibao.<br>
+2015 - Sanda Voïca, La poésie comme rapt, Chronique de *Voire*, Paysage écrits n°24.<br>
+2015 - Jean-Paul Gavard-Perret, *Abîmes et labyrinthes*, e-litterature.net.<br>
+2015 - Jean-Paul Gavard-Perret, Chronique de *Voire*, le litteraire.<br>
+2015 - Fabrice Thumerel, Chronique de *Voire*, Libr-critique.<br>
+2015 - Marie-Josée Desvignes, Chronique de *Voire*, recours au poème.<br>
+2014 - Cécile Guivarch, Chronique de *sorgue*, Terre à Ciel.<br>
 
 ---
 
