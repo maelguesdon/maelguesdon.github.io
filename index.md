@@ -135,7 +135,7 @@ title: Maël Guesdon
 2021 - [*La poésie n'est pas une hygiène mentale*](https://diacritik.com/2022/01/06/mael-guesdon-la-poesie-nest-pas-une-hygiene-mentale-mon-plan/), Florent Lahache à propos de *Mon plan*, Diacritik.<br>
 2021 - [*L'enfance fantôme*](https://diacritik.com/2021/12/17/mael-guesdon-lenfance-fantome-mon-plan/), Jean-Philippe Cazier à propos de *Mon plan*, Diacritik.<br>
 2021 - Chronique de *Mon plan* par Sébastien Dubois, Poezibao.<br>
-2021 - Adrien Meignan, Chronique de *Mon plan*, Un dernier livre avant la fin du monde.<br>
+2021 - [Chronique de *Mon plan*](https://www.undernierlivre.net/mael-guesdon-mon-plan/?fbclid=IwAR2lYPjpba7txE_TuCXz6DiupxB7BaGp8GnWzgAgJ-37U8rL37QEw0QwKTc) par Adrien Meignan, Un dernier livre avant la fin du monde.<br>
 2021 - Guillaume Condello, *La vie des images*, à propos de *Mon plan*, Revue Catastrophes.<br>
 2019 - *Petits laboratoires de poche*, entretien avec Tristan Hordé, *Revue Europe*, N° 1077-1078 (janvier-février 2019).<br>
 2019 - *La lorgnette du cinéma / The lens of cinema*, entretien avec (et traduit par) Carrie Chappell, Verse of April (avril 2019).<br>
