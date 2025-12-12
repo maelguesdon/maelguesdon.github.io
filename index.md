@@ -129,10 +129,10 @@ title: Maël Guesdon
 
 ## Réception critique et entretiens
 2022 - Entretien avec Paul de Brancion à propos de *Mon plan*, « Chute libre », Aligre FM (18 novembre 2022).<br>
-2022 - *En bifurquant dans la lenteur de la langue*, entretien avec Jean-Philippe Cazier, Diacritik.<br>
-2022 - Tristan Hordé, Chronique de *Mon plan*, Sitaudis.<br>
-2022 - Jacques Josse, Chronique de *Mon plan*, remue.net.<br>
-2021 - Florent Lahache, *La poésie n'est pas une hygiène mentale*, à propos de *Mon plan*, Diacritik.<br>
+2022 - [*En bifurquant dans la lenteur de la langue*] (https://diacritik.com/2022/01/31/mael-guesdon-en-bifurquant-dans-la-lenteur-de-la-langue-mon-plan/), entretien avec Jean-Philippe Cazier, Diacritik.<br>
+2022 - [Chronique de *Mon plan*](https://www.sitaudis.fr/Parutions/mael-guesdon-mon-plan-1642139445.php) par Tristan Hordé, Sitaudis.<br>
+2022 - [Chronique de *Mon plan*](https://remue.net/mon-plan) par Jacques Josse, remue.net.<br>
+2021 - [*La poésie n'est pas une hygiène mentale*](https://diacritik.com/2022/01/06/mael-guesdon-la-poesie-nest-pas-une-hygiene-mentale-mon-plan/), Florent Lahache à propos de *Mon plan*, Diacritik.<br>
 2021 - Jean-Philippe Cazier, *L'enfance fantôme*, à propos de *Mon plan*, Diacritik.<br>
 2021 - Sébastien Dubois, Note de lecture, à propos de *Mon plan*, Poezibao.<br>
 2021 - Adrien Meignan, Chronique de *Mon plan*, Un dernier livre avant la fin du monde.<br>
