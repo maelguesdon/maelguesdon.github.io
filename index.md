@@ -93,7 +93,7 @@ title: Maël Guesdon
 
 ## Performances, lectures, rencontres
 
-2025 - *Les retours de l'aléas*, performance, avec David Christoffel, [Maison de la poésie](https://maisondelapoesieparis.com/programme/developpement-personnel-poesie/), Paris (11/12/2025).<br>
+2025 - *Conseils sur le retour*, performance, avec David Christoffel, [Maison de la poésie](https://maisondelapoesieparis.com/programme/developpement-personnel-poesie/), Paris (11/12/2025).<br>
 2025 - *Le bien-être par la poésie*, Librairie Comment dire, Rennes (15/10/2025).<br>
 2025 - *Le bien-être par la poésie*, Librairie Zoème, Marseille (26/09/2025).<br>
 2025 - *Le bien-être par la poésie*, L'Ours et la vieille grille, Paris (24/09/2025).<br>
