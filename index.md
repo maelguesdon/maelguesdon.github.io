@@ -148,7 +148,7 @@ title: Maël Guesdon
 2016 - [Chronique de *Voire*](https://remue.net/Voire-de-Mael-Guesdon-Une-lecture-par-Marc-Perrin) par Marc Perrin, remue.net.<br>
 2016 - Entretien avec Michel Sourget à propos de *Voire*, « Les draps dans les mots », radio AlterNantes.<br>
 2016 - Lecture de *Voire* par Philippe Guitton, émission « Cela Dit », Radio Saint-Affrique (10 janvier 2016).<br>
-2015 - Jean-Philippe Cazier, *Maël Guesdon : l’expérience de la poésie*, Mediapart.<br>
+2015 - [*Maël Guesdon : l’expérience de la poésie*](https://blogs.mediapart.fr/edition/bookclub/article/090315/mael-guesdon-l-experience-de-la-poesie), Jean-Philippe Cazier à propos de *Voire*, Mediapart.<br>
 2015 - *Présences minoritaires*, entretien avec Donatien Garnier, revue Éclairs (17 septembre 2015).<br>
 2015 - Etienne Faure, Chronique de *Voire*, CCP.<br>
 2015 - Serge Martin, *In-finir au féminin : Maël Guesdon ou le poème pour voir(e)*, Résonance générale 7.<br>
