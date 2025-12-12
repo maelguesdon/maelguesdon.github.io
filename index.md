@@ -134,7 +134,7 @@ title: Maël Guesdon
 2022 - [Chronique de *Mon plan*](https://remue.net/mon-plan) par Jacques Josse, remue.net.<br>
 2021 - [*La poésie n'est pas une hygiène mentale*](https://diacritik.com/2022/01/06/mael-guesdon-la-poesie-nest-pas-une-hygiene-mentale-mon-plan/), Florent Lahache à propos de *Mon plan*, Diacritik.<br>
 2021 - [*L'enfance fantôme*](https://diacritik.com/2021/12/17/mael-guesdon-lenfance-fantome-mon-plan/), Jean-Philippe Cazier à propos de *Mon plan*, Diacritik.<br>
-2021 - Lecture de *Mon plan* par Sébastien Dubois, Poezibao.<br>
+2021 - Chronique de *Mon plan* par Sébastien Dubois, Poezibao.<br>
 2021 - Adrien Meignan, Chronique de *Mon plan*, Un dernier livre avant la fin du monde.<br>
 2021 - Guillaume Condello, *La vie des images*, à propos de *Mon plan*, Revue Catastrophes.<br>
 2019 - *Petits laboratoires de poche*, entretien avec Tristan Hordé, *Revue Europe*, N° 1077-1078 (janvier-février 2019).<br>
