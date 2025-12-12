@@ -128,7 +128,8 @@ title: Maël Guesdon
 ---
 
 ## Réception critique et entretiens
-2022 - Entretien avec Paul de Brancion à propos de *Mon plan*, « Chute libre », Aligre FM (18 novembre 2022).<br>
+2023 - [*La première chose que je peux vous dire*](https://share.transistor.fm/s/9d703311), entretien avec Roxana Hashemi, Radio Grenouille (06/11/23).<br>
+2022 - Entretien avec Paul de Brancion à propos de *Mon plan*, « Chute libre », Aligre FM (18/11/2022).<br>
 2022 - [*En bifurquant dans la lenteur de la langue*](https://diacritik.com/2022/01/31/mael-guesdon-en-bifurquant-dans-la-lenteur-de-la-langue-mon-plan/), entretien avec Jean-Philippe Cazier, Diacritik.<br>
 2022 - [Chronique de *Mon plan*](https://www.sitaudis.fr/Parutions/mael-guesdon-mon-plan-1642139445.php) par Tristan Hordé, Sitaudis.<br>
 2022 - [Chronique de *Mon plan*](https://remue.net/mon-plan) par Jacques Josse, remue.net.<br>
