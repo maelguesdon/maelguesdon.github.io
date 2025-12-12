@@ -150,17 +150,17 @@ title: Maël Guesdon
 2016 - Lecture de *Voire* par Philippe Guitton, émission « Cela Dit », Radio Saint-Affrique (10 janvier 2016).<br>
 2015 - [*Maël Guesdon : l’expérience de la poésie*](https://blogs.mediapart.fr/edition/bookclub/article/090315/mael-guesdon-l-experience-de-la-poesie), Jean-Philippe Cazier à propos de *Voire*, Mediapart.<br>
 2015 - *Présences minoritaires*, entretien avec Donatien Garnier, revue Éclairs (17 septembre 2015).<br>
-2015 - Etienne Faure, Chronique de *Voire*, CCP.<br>
-2015 - Serge Martin, *In-finir au féminin : Maël Guesdon ou le poème pour voir(e)*, Résonance générale 7.<br>
+2015 - [Chronique de *Voire*](https://cahiercritiquedepoesie.fr/ccp-30-4/mael-guesdon-voire) par Étienne Faure, CCP.<br>
+2015 - [*In-finir au féminin : Maël Guesdon ou le poème pour voir(e)*](https://martinritman.blogspot.com/2015/02/recommencer-voire-infinir-avec-le.html), Chronique de *Voire* par Serge Martin, Résonance générale 7.<br>
 2015 - Xavier Person, *Se taire sans se taire*, Chronique de *Voire*, Le Matricule des Anges #160.<br>
-2015 - Emmanuèle Jawad, Chronique de *Voire*, Sitaudis.<br>
-2015 - Caroline Sagot Duvauroux, Chronique de *Voire*, Poezibao.<br>
-2015 - Sanda Voïca, La poésie comme rapt, Chronique de *Voire*, Paysage écrits n°24.<br>
-2015 - Jean-Paul Gavard-Perret, *Abîmes et labyrinthes*, e-litterature.net.<br>
-2015 - Jean-Paul Gavard-Perret, Chronique de *Voire*, le litteraire.<br>
-2015 - Fabrice Thumerel, Chronique de *Voire*, Libr-critique.<br>
-2015 - Marie-Josée Desvignes, Chronique de *Voire*, recours au poème.<br>
-2014 - Cécile Guivarch, Chronique de *sorgue*, Terre à Ciel.<br>
+2015 - [Chronique de *Voire*](https://www.sitaudis.fr/Parutions/voire-de-mael-guesdon.php) par Emmanuèle Jawad, Sitaudis.<br>
+2015 - Chronique de *Voire* par Caroline Sagot Duvauroux, Poezibao.<br>
+2015 - *La poésie comme rapt*, Chronique de *Voire* par Sanda Voïca, Paysage écrits n°24.<br>
+2015 - *Abîmes et labyrinthes* par Jean-Paul Gavard-Perret, e-litterature.net.<br>
+2015 - Chronique de *Voire* par Jean-Paul Gavard-Perret, le litteraire.<br>
+2015 - Chronique de *Voire* par Fabrice Thumerel, Libr-critique.<br>
+2015 - [Chronique de *Voire*](https://www.recoursaupoeme.fr/mael-guesdon-voire/) par Marie-Josée Desvignes, recours au poème.<br>
+2014 - Chronique de *sorgue* par Cécile Guivarch, Terre à Ciel.<br>
 
 ---
 
