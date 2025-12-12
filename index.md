@@ -125,6 +125,40 @@ title: Maël Guesdon
 2015 - *Johnny Guitar est l'histoire d'un cowboy qui a échangé son arme contre une guitare*, vidéo, Nuit Général Instin, Maison de la Poésie, Paris (03/12/2015).<br>
 2015 - *Antiguitar 1&2*, RADIO, avec Marie de Quatrebarbes (12/12/2015).<br>
 
+## Réception critique et entretiens
+2022 Entretien avec Paul de Brancion à propos de Mon plan, « Chute libre », Aligre FM (18 novembre 2022).
+2022 En bifurquant dans la lenteur de la langue, entretien avec Jean-Philippe Cazier, Diacritik.
+2022 Tristan Hordé, Chronique de Mon plan, Sitaudis.
+2022 Jacques Josse, Chronique de Mon plan, remue.net.
+2021 Florent Lahache, La poésie n'est pas une hygiène mentale, à propos de Mon plan, Diacritik.
+2021 Jean-Philippe Cazier, L'enfance fantôme, à propos de Mon plan, Diacritik.
+2021 Sébastien Dubois, Note de lecture, à propos de Mon plan, Poezibao.
+2021 Adrien Meignan, Chronique de Mon plan, Un dernier livre avant la fin du monde.
+2021 Guillaume Condello, La vie des images, à propos de Mon plan, Revue Catastrophes.
+2019 Petits laboratoires de poche, entretien avec Tristan Hordé, Revue Europe, N° 1077-1078 (janvier-février 2019).
+2019 La lorgnette du cinéma / The lens of cinema, entretien avec (et traduit par) Carrie Chappell, Verse of April (avril 2019).
+2018 Didier Cahen, Trans|Poésie. Passe-passe, Le Monde.
+2017 Mikkel Krause Frantzen, Nogle gange er der vigtigere ting i verden end betydning, Chronique de Endda, Politiken.
+2017 Kirsten Vestergaard Mikkelsen, Chronique de Endda, Poesiens Hus.
+2017 Stéréotypies et ritournelles, entretien avec David Christoffel, émission « Les Experts », La webradio du Printemps des Arts de Monte-Carlo (29 mars 2017).
+2017 Entretien avec Thomas Pietrois-Chabassier, Revue Mastermind #01.
+2017 Marc Perrin, Gare Maritime, Maison de la poésie de Nantes.
+2016 Marc Perrin, Chronique de Voire, remue.net.
+2016 Entretien avec Michel Sourget à propos de Voire, « Les draps dans les mots », radio AlterNantes.
+2016 Lecture de Voire par Philippe Guitton, émission « Cela Dit », Radio Saint-Affrique (10 janvier 2016). 2015 Jean-Philippe Cazier, Maël Guesdon : l’expérience de la poésie, Mediapart.
+2015 Présences minoritaires, entretien avec Donatien Garnier, revue Éclairs (17 septembre 2015).
+2015 Etienne Faure, Chronique de Voire, CCP.
+2015 Serge Martin, In-finir au féminin : Maël Guesdon ou le poème pour voir(e), Résonance générale 7.
+2015 Xavier Person, Se taire sans se taire, Chronique de Voire, Le Matricule des Anges #160.
+2015 Emmanuèle Jawad, Chronique de Voire, Sitaudis.
+2015 Caroline Sagot Duvauroux, Chronique de Voire, Poezibao.
+2015 Sanda Voïca, La poésie comme rapt, Chronique de Voire, Paysage écrits n°24.
+2015 Jean-Paul Gavard-Perret, Abîmes et labyrinthes, e-litterature.net.
+2015 Jean-Paul Gavard-Perret, Chronique de Voire, le litteraire.
+2015 Fabrice Thumerel, Chronique de Voire, Libr-critique.
+2015 Marie-Josée Desvignes, Chronique de Voire, recours au poème.
+2014 Cécile Guivarch, Chronique de sorgue, Terre à Ciel.
+
 ---
 
 ## Éditions
