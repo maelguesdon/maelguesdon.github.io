@@ -138,14 +138,14 @@ title: Maël Guesdon
 2021 - [Chronique de *Mon plan*](https://www.undernierlivre.net/mael-guesdon-mon-plan/?fbclid=IwAR2lYPjpba7txE_TuCXz6DiupxB7BaGp8GnWzgAgJ-37U8rL37QEw0QwKTc) par Adrien Meignan, Un dernier livre avant la fin du monde.<br>
 2021 - [*La vie des images*](https://revuecatastrophes.wordpress.com/2021/11/26/la-vie-des-images/?fbclid=IwAR0AwFzy-wqX2lPhrWSsjbGrhDOnG6idqLfseFTh4YAyXFZjEYbpiy6goVg), Guillaume Condello à propos de *Mon plan*, Revue Catastrophes.<br>
 2019 - *Petits laboratoires de poche*, entretien avec Tristan Hordé, *Revue Europe*, N° 1077-1078 (janvier-février 2019).<br>
-2019 - [*La lorgnette du cinéma / The lens of cinema*] (http://www.verseofapril.com/2019/2019/3/26/97-mal-la-lorgnette-du-cinma), entretien avec (et traduit par) Carrie Chappell, Verse of April (avril 2019).<br>
-2018 - Didier Cahen, *Trans|Poésie. Passe-passe*, Le Monde.<br>
-2017 - Mikkel Krause Frantzen, *Nogle gange er der vigtigere ting i verden end betydning*, Chronique de *Endda*, Politiken.<br>
-2017 - Kirsten Vestergaard Mikkelsen, Chronique de *Endda*, Poesiens Hus.<br>
+2019 - [*La lorgnette du cinéma / The lens of cinema*](http://www.verseofapril.com/2019/2019/3/26/97-mal-la-lorgnette-du-cinma), entretien avec (et traduit par) Carrie Chappell, Verse of April (avril 2019).<br>
+2018 - [*Trans|Poésie. Passe-passe*](https://www.lemonde.fr/livres/article/2018/03/22/trans-poesie-passe-passe_5274640_3260.html) par Didier Cahen, Le Monde.<br>
+2017 - *Nogle gange er der vigtigere ting i verden end betydning*, Chronique de *Endda* par Mikkel Krause Frantzen, Politiken.<br>
+2017 - Chronique de *Endda* par Kirsten Vestergaard Mikkelsen, Poesiens Hus.<br>
 2017 - *Stéréotypies et ritournelles*, entretien avec David Christoffel, émission « Les Experts », La webradio du Printemps des Arts de Monte-Carlo (29 mars 2017).<br>
 2017 - Entretien avec Thomas Pietrois-Chabassier, Revue Mastermind #01.<br>
-2017 - Marc Perrin, *Gare Maritime*, Maison de la poésie de Nantes.<br>
-2016 - Marc Perrin, Chronique de *Voire*, remue.net.<br>
+2017 - [*Présentation*](https://maisondelapoesie-nantes.com/guesdon-mael/) par Marc Perrin, *Gare Maritime*, Maison de la poésie de Nantes.<br>
+2016 - [Chronique de *Voire*](https://remue.net/Voire-de-Mael-Guesdon-Une-lecture-par-Marc-Perrin) par Marc Perrin, remue.net.<br>
 2016 - Entretien avec Michel Sourget à propos de *Voire*, « Les draps dans les mots », radio AlterNantes.<br>
 2016 - Lecture de *Voire* par Philippe Guitton, émission « Cela Dit », Radio Saint-Affrique (10 janvier 2016).<br>
 2015 - Jean-Philippe Cazier, *Maël Guesdon : l’expérience de la poésie*, Mediapart.<br>
