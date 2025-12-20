@@ -134,10 +134,10 @@ title: Maël Guesdon
 2015 - *Introduction*, Journée d’études « Écologie de l’écoute et virage numérique », EHESS, avec Esteban Buch (24/11/2015).<br>
 2015 - *De la clinique à la musique, les ritournelles deleuzo-guattariennes*, colloque international « Deleuze : virtuel, machines et lignes de fuites », centre culturel International de Cerisy (06/08/2015).<br>
 2015 - *Une pensée de l’allure ? Approche des problématiques formelles chez Deleuze et Guattari et de leurs répercussions épistémologiques*, colloque « Arts, littérature et sciences sociales à l’EHESS », EHESS (19/06/2015).<br>
-2015 - *Uexküll, Deleuze, Guattari. Temps perceptifs, marques sensibles et habitation*, École Nationale Supérieure d’Architecture de Saint-Étienne (27 mai 2015).<br>
+2015 - *Uexküll, Deleuze, Guattari. Temps perceptifs, marques sensibles et habitation*, École Nationale Supérieure d’Architecture de Saint-Étienne (27/05/2015).<br>
 2015 - *Le son, la musique et la clinique : une écologie deleuzo-guattarienne*, séminaire « Musique et sciences sociales », EHESS (04/05/2015).<br>
 2014 - *Ritournelles des mondes animaux et écologie sonore dans L’inconscient machinique et Mille Plateaux*, colloque international « Simondon, Deleuze, Guattari et l’écologie du son », Paris 8, Labex Arts H2H (18/10/2014).<br>
-2014 - *Promesse démocratisante, techno-capitalisme et logiques hiérarchisées des hologrammes de création*, colloque international « Digital Intelligence 2014 », université de Nantes, avec Philippe Le Guern (19/11/2014).<br>
+2014 - *Promesse démocratisante, techno-capitalisme et logiques hiérarchisées des hologrammes de création*, colloque international « Digital Intelligence », université de Nantes, avec Philippe Le Guern (19/11/2014).<br>
 2014 - [*De la boîte à musique aux paysages mélodiques. Biologie, écologie et ritournelles chez Deleuze et Guattari*](https://www.youtube.com/watch?v=Gc8wgknhwBs), journée d’études « Usages de la mélodie », université Paris Diderot, Paris 7 (06/06/2014).<br>
 2014 - *Forums, fictions et perceptions*, séminaire « Théorie musicale et philosophie », université Paris 1, Panthéon-Sorbonne (28/05/2014).<br>
 2013 - *Construire et habiter ses espaces. Les ritournelles éthologiques dans L’inconscient machinique et Mille Plateaux*, journée d’études « De Simondon à Guattari : écologie, individuation, sémiotiques », université Paris Ouest Nanterre, École Normale Supérieure, Paris (07/12/2013).<br>
