@@ -129,26 +129,26 @@ title: Maël Guesdon
 
 ## Communications, conférences, colloques
 
-2017 - *Répétitions et consistance*, Journée d’études « Deleuze. Différence et répétition », Paris 3 - Sorbonne Nouvelle (29 juin 2017).<br>
-2017 - *Voix et ritournelle : le cas des stéréotypies verbales*, séminaire « Théories et didactiques de la littérature : une question de voix », Paris 3 - Sorbonne Nouvelle (5 janvier 2017).<br>
-2015 - *Introduction*, Journée d’études « Écologie de l’écoute et virage numérique », EHESS, avec Esteban Buch (24 novembre 2015).<br>
-2015 - *De la clinique à la musique, les ritournelles deleuzo-guattariennes*, colloque international « Deleuze : virtuel, machines et lignes de fuites », centre culturel International de Cerisy (6 août 2015).<br>
-2015 - *Une pensée de l’allure ? Approche des problématiques formelles chez Deleuze et Guattari et de leurs répercussions épistémologiques*, colloque « Arts, littérature et sciences sociales à l’EHESS », EHESS (19 juin 2015).<br>
+2017 - *Répétitions et consistance*, Journée d’études « Deleuze. Différence et répétition », Paris 3 - Sorbonne Nouvelle (29/06/2017).<br>
+2017 - *Voix et ritournelle : le cas des stéréotypies verbales*, séminaire « Théories et didactiques de la littérature : une question de voix », Paris 3 - Sorbonne Nouvelle (05/01/2017).<br>
+2015 - *Introduction*, Journée d’études « Écologie de l’écoute et virage numérique », EHESS, avec Esteban Buch (24/11/2015).<br>
+2015 - *De la clinique à la musique, les ritournelles deleuzo-guattariennes*, colloque international « Deleuze : virtuel, machines et lignes de fuites », centre culturel International de Cerisy (06/08/2015).<br>
+2015 - *Une pensée de l’allure ? Approche des problématiques formelles chez Deleuze et Guattari et de leurs répercussions épistémologiques*, colloque « Arts, littérature et sciences sociales à l’EHESS », EHESS (19/06/2015).<br>
 2015 - *Uexküll, Deleuze, Guattari. Temps perceptifs, marques sensibles et habitation*, École Nationale Supérieure d’Architecture de Saint-Étienne (27 mai 2015).<br>
-2015 - *Le son, la musique et la clinique : une écologie deleuzo-guattarienne*, séminaire « Musique et sciences sociales », EHESS (04 mai 2015).<br>
-2014 - *Ritournelles des mondes animaux et écologie sonore dans L’inconscient machinique et Mille Plateaux*, colloque international « Simondon, Deleuze, Guattari et l’écologie du son », Paris 8, Labex Arts H2H (18 octobre 2014).<br>
-2014 - *Promesse démocratisante, techno-capitalisme et logiques hiérarchisées des hologrammes de création*, colloque international « Digital Intelligence 2014 », université de Nantes, avec Philippe Le Guern (19 novembre 2014).<br>
-2014 - *De la boîte à musique aux paysages mélodiques. Biologie, écologie et ritournelles chez Deleuze et Guattari*, journée d’études « Usages de la mélodie », université Paris Diderot, Paris 7 (06 juin 2014).<br>
-2014 - *Forums, fictions et perceptions*, séminaire « Théorie musicale et philosophie », université Paris 1, Panthéon-Sorbonne (28 mai 2014).<br>
-2013 - *Construire et habiter ses espaces. Les ritournelles éthologiques dans L’inconscient machinique et Mille Plateaux*, journée d’études « De Simondon à Guattari : écologie, individuation, sémiotiques », université Paris Ouest Nanterre, École Normale Supérieure, Paris (07 décembre 2013).<br>
-2013 - *Ritournelles et stéréotypies*, séminaire de recherche HAR-P, Histoire de arts et des représentations, Université Paris Ouest, Nanterre La défense (29 juin 2013).<br>
-2013 - *In the boundary between virtual and reality : hologrammes*, transversalité stylistique et spectralité dans la pop contemporaine, colloque « Musiques nouvelles et mélange des genres », EHESS, ANR « Musimorphose », Institut protestant de théologie, avec Philippe Le Guern (22 mars 2013).<br>
-2013 - *À propos des ritournelles. De L’inconscient machinique à Chaosmose*, « Chaosmose, temps pluriels. Penser avec Félix Guattari », Maison populaire de Montreuil (23 janvier 2013).<br>
-2012 - *Deleuze et Guattari. "À la limite d’un sifflement trou-noir"*, musique, capitalisme, éthologie et devenir, séminaire « Recherche dans les arts », EHESS (05 novembre 2012).<br>
-2012 - *Retromania : the crisis of progressive ideal and spectrality in pop music*, colloque international « Flashbaks - Nostalgic media and mediated forms of nostalgia », Université de Genève, avec Philippe Le Guern (13 septembre 2012).<br>
-2012 - *Ritournelles : musique et transversalité chez Deleuze et Guattari*, séminaire « Philosophie et musicologie, des croisements aux rencontres », Paris 4, La Sorbonne (11 mai 2012).<br>
-2011 - *Esthétique et philosophie, le pluralisme deleuzien*, « Introduction à l’esthétique musicale », université Paris 7 – Diderot (06 décembre 2011).<br>
-2010 - *Entre esthétique et inesthétique : Gilles Deleuze et la musique*, journée d’étude « Quand la musique entre dans nos recherches », EHESS (16 avril 2010).<br>
+2015 - *Le son, la musique et la clinique : une écologie deleuzo-guattarienne*, séminaire « Musique et sciences sociales », EHESS (04/05/2015).<br>
+2014 - *Ritournelles des mondes animaux et écologie sonore dans L’inconscient machinique et Mille Plateaux*, colloque international « Simondon, Deleuze, Guattari et l’écologie du son », Paris 8, Labex Arts H2H (18/10/2014).<br>
+2014 - *Promesse démocratisante, techno-capitalisme et logiques hiérarchisées des hologrammes de création*, colloque international « Digital Intelligence 2014 », université de Nantes, avec Philippe Le Guern (19/11/2014).<br>
+2014 - *De la boîte à musique aux paysages mélodiques. Biologie, écologie et ritournelles chez Deleuze et Guattari*, journée d’études « Usages de la mélodie », université Paris Diderot, Paris 7 (06/06/2014).<br>
+2014 - *Forums, fictions et perceptions*, séminaire « Théorie musicale et philosophie », université Paris 1, Panthéon-Sorbonne (28/05/2014).<br>
+2013 - *Construire et habiter ses espaces. Les ritournelles éthologiques dans L’inconscient machinique et Mille Plateaux*, journée d’études « De Simondon à Guattari : écologie, individuation, sémiotiques », université Paris Ouest Nanterre, École Normale Supérieure, Paris (07/12/2013).<br>
+2013 - *Ritournelles et stéréotypies*, séminaire de recherche HAR-P, Histoire de arts et des représentations, Université Paris Ouest, Nanterre La défense (29/06/2013).<br>
+2013 - *In the boundary between virtual and reality : hologrammes*, transversalité stylistique et spectralité dans la pop contemporaine, colloque « Musiques nouvelles et mélange des genres », EHESS, ANR « Musimorphose », Institut protestant de théologie, avec Philippe Le Guern (22/03/2013).<br>
+2013 - *À propos des ritournelles. De L’inconscient machinique à Chaosmose*, « Chaosmose, temps pluriels. Penser avec Félix Guattari », Maison populaire de Montreuil (23/01/2013).<br>
+2012 - *Deleuze et Guattari. "À la limite d’un sifflement trou-noir"*, musique, capitalisme, éthologie et devenir, séminaire « Recherche dans les arts », EHESS (05/11/2012).<br>
+2012 - *Retromania : the crisis of progressive ideal and spectrality in pop music*, colloque international « Flashbaks - Nostalgic media and mediated forms of nostalgia », Université de Genève, avec Philippe Le Guern (13/09/2012).<br>
+2012 - *Ritournelles : musique et transversalité chez Deleuze et Guattari*, séminaire « Philosophie et musicologie, des croisements aux rencontres », Paris 4, La Sorbonne (11/05/2012).<br>
+2011 - *Esthétique et philosophie, le pluralisme deleuzien*, « Introduction à l’esthétique musicale », université Paris 7 – Diderot (06/12/2011).<br>
+2010 - *Entre esthétique et inesthétique : Gilles Deleuze et la musique*, journée d’étude « Quand la musique entre dans nos recherches », EHESS (16/04/2010).<br>
 
 ---
 
