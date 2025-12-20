@@ -138,7 +138,7 @@ title: Maël Guesdon
 2015 - *Le son, la musique et la clinique : une écologie deleuzo-guattarienne*, séminaire « Musique et sciences sociales », EHESS (04/05/2015).<br>
 2014 - *Ritournelles des mondes animaux et écologie sonore dans L’inconscient machinique et Mille Plateaux*, colloque international « Simondon, Deleuze, Guattari et l’écologie du son », Paris 8, Labex Arts H2H (18/10/2014).<br>
 2014 - *Promesse démocratisante, techno-capitalisme et logiques hiérarchisées des hologrammes de création*, colloque international « Digital Intelligence 2014 », université de Nantes, avec Philippe Le Guern (19/11/2014).<br>
-2014 - *De la boîte à musique aux paysages mélodiques. Biologie, écologie et ritournelles chez Deleuze et Guattari*, journée d’études « Usages de la mélodie », université Paris Diderot, Paris 7 (06/06/2014).<br>
+2014 - [*De la boîte à musique aux paysages mélodiques. Biologie, écologie et ritournelles chez Deleuze et Guattari*](https://www.youtube.com/watch?v=Gc8wgknhwBs), journée d’études « Usages de la mélodie », université Paris Diderot, Paris 7 (06/06/2014).<br>
 2014 - *Forums, fictions et perceptions*, séminaire « Théorie musicale et philosophie », université Paris 1, Panthéon-Sorbonne (28/05/2014).<br>
 2013 - *Construire et habiter ses espaces. Les ritournelles éthologiques dans L’inconscient machinique et Mille Plateaux*, journée d’études « De Simondon à Guattari : écologie, individuation, sémiotiques », université Paris Ouest Nanterre, École Normale Supérieure, Paris (07/12/2013).<br>
 2013 - *Ritournelles et stéréotypies*, séminaire de recherche HAR-P, Histoire de arts et des représentations, Université Paris Ouest, Nanterre La défense (29/06/2013).<br>
