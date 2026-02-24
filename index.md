@@ -77,20 +77,6 @@ title: Maël Guesdon
 
 ---
 
-## Revues scientifiques, chapitres d'ouvrages collectifs, actes de colloques
-
-2024 - « 1837 : l'agencement Schumann dans *Mille Plateaux*», Yoann Hervey-Fortunet (dir.), *Lectures de Deleuze*, Paris, Ellipses.<br>
-2019 - « De la clinique à la musique : stéréotypies psychiatriques et ritournelles deleuzo-guattariennes », Querrien, Anne, Sauvagnargues, Anne et Villani, Arnaud (dir.), [Agencer les multiplicités avec Deleuze](http://www.ccic-cerisy.asso.fr/deleuzeTM19.html), Paris, Hermann Éditeurs.<br>
-2016 - « Une voix sans corps pour des corps sans voix. À propos des hologrammes en général et d'Hatsune Miku en particulier », Le Guern, Philippe (dir.), [*Où va la musique ? Numérimorphose et nouvelles expériences d'écoute*](https://www.pressesdesmines.com/produit/ou-va-la-musique/), Presses des mines, 2016. Avec Philippe Le Guern.<br>
-2015 - « Même les constantes sont pour la variation. Sur trois usages de la mélodie dans Capitalisme et schizophrénie », Criton, Pascale et Chouvel, Jean-Marc (dir.), [*Gilles Deleuze. La pensée-musique*](http://www.cdmc.asso.fr/fr/ressources/publications/gilles-deleuze-pensee-musique), Paris, Éditions du Centre de documentation de la Musique Contemporaine.<br>
-2014 - « Gilles Deleuze, une politique du son », Cassagnau, Pascale, [*Une idée du Nord. Excursions dans la création contemporaine sonore*](http://remue.net/spip.php?article7474), Paris, École nationale supérieure des beaux-arts de Paris.<br>
-2014 - « Retromania: Crisis of Progressive Ideal and Spectrality in Pop Music », Niemeyer, Katharina (dir.), [*Media and Nostalgia. Yearning for the Past, Present and Future*](https://www.palgrave.com/us/book/9781137375872#reviews), Palgrave Macmillan. Avec Philippe Le Guern.<br>
-2013 - « [D'une répétition l'autre. La ritournelle dans "Monographie sur R.A."](https://www.cairn.info/revue-chimeres-2013-1-page-142.htm) », [*Chimères* n°79](https://www.cairn.info/revue-chimeres-2013-1.htm), "Chaosmose, temps pluriels", numéro dirigé par Pascale Criton, Éditions érès.<br>
-2013 - « [Figures de l'écoute : circonstances, usages, métaphores](http://journals.openedition.org/volume/3654) », [*Volume !*](http://journals.openedition.org/volume/3575), Éditions Seteun, 1/2013 (10:1). Avec Sarah Benhaïm.<br>
-2010 - « [L'Ontologie du rock de Roger Pouivet](http://journals.openedition.org/volume/1094) », [*Volume !*](http://journals.openedition.org/volume/58), Éditions Seteun, 1/2010 (7:1).<br>
-
----
-
 ## Performances, lectures, rencontres
 
 2026 - *La dinette de Dracula*, performance, [Maison de la poésie](https://maisondelapoesieparis.com/programme/chloe-delaume-presente-bulle-poetique-mensuelle-dominicale-2/)), Paris (22/02/2026).<br> 2025 - *Conseils sur le retour*, performance, avec David Christoffel, [Maison de la poésie](https://maisondelapoesieparis.com/programme/developpement-personnel-poesie/), Paris (11/12/2025).<br>
@@ -124,6 +110,20 @@ title: Maël Guesdon
 2016 - *Personne n'est arrivé pour le dire*, vidéo, Maison de la poésie de Nantes (14/01/2016).<br>
 2015 - *Johnny Guitar est l'histoire d'un cowboy qui a échangé son arme contre une guitare*, vidéo, Nuit Général Instin, Maison de la Poésie, Paris (03/12/2015).<br>
 2015 - *Antiguitar 1&2*, RADIO, avec Marie de Quatrebarbes (12/12/2015).<br>
+
+---
+
+## Revues scientifiques, chapitres d'ouvrages collectifs, actes de colloques
+
+2024 - « 1837 : l'agencement Schumann dans *Mille Plateaux*», Yoann Hervey-Fortunet (dir.), *Lectures de Deleuze*, Paris, Ellipses.<br>
+2019 - « De la clinique à la musique : stéréotypies psychiatriques et ritournelles deleuzo-guattariennes », Querrien, Anne, Sauvagnargues, Anne et Villani, Arnaud (dir.), [Agencer les multiplicités avec Deleuze](http://www.ccic-cerisy.asso.fr/deleuzeTM19.html), Paris, Hermann Éditeurs.<br>
+2016 - « Une voix sans corps pour des corps sans voix. À propos des hologrammes en général et d'Hatsune Miku en particulier », Le Guern, Philippe (dir.), [*Où va la musique ? Numérimorphose et nouvelles expériences d'écoute*](https://www.pressesdesmines.com/produit/ou-va-la-musique/), Presses des mines, 2016. Avec Philippe Le Guern.<br>
+2015 - « Même les constantes sont pour la variation. Sur trois usages de la mélodie dans Capitalisme et schizophrénie », Criton, Pascale et Chouvel, Jean-Marc (dir.), [*Gilles Deleuze. La pensée-musique*](http://www.cdmc.asso.fr/fr/ressources/publications/gilles-deleuze-pensee-musique), Paris, Éditions du Centre de documentation de la Musique Contemporaine.<br>
+2014 - « Gilles Deleuze, une politique du son », Cassagnau, Pascale, [*Une idée du Nord. Excursions dans la création contemporaine sonore*](http://remue.net/spip.php?article7474), Paris, École nationale supérieure des beaux-arts de Paris.<br>
+2014 - « Retromania: Crisis of Progressive Ideal and Spectrality in Pop Music », Niemeyer, Katharina (dir.), [*Media and Nostalgia. Yearning for the Past, Present and Future*](https://www.palgrave.com/us/book/9781137375872#reviews), Palgrave Macmillan. Avec Philippe Le Guern.<br>
+2013 - « [D'une répétition l'autre. La ritournelle dans "Monographie sur R.A."](https://www.cairn.info/revue-chimeres-2013-1-page-142.htm) », [*Chimères* n°79](https://www.cairn.info/revue-chimeres-2013-1.htm), "Chaosmose, temps pluriels", numéro dirigé par Pascale Criton, Éditions érès.<br>
+2013 - « [Figures de l'écoute : circonstances, usages, métaphores](http://journals.openedition.org/volume/3654) », [*Volume !*](http://journals.openedition.org/volume/3575), Éditions Seteun, 1/2013 (10:1). Avec Sarah Benhaïm.<br>
+2010 - « [L'Ontologie du rock de Roger Pouivet](http://journals.openedition.org/volume/1094) », [*Volume !*](http://journals.openedition.org/volume/58), Éditions Seteun, 1/2010 (7:1).<br>
 
 ---
 
