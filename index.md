@@ -20,8 +20,7 @@ title: Maël Guesdon
 2024 - [*L'intérieur d'un animal enfermé dans une cage*](https://www.la-marelle.org/productions/editions-la-marelle/1504-mael-guesdon-la-revue.html), La Marelle - Cipm.<br> 2024 - [*Les aliens, la musique et nous*](https://www.multitudes.net/les-aliens-la-musique-et-nous/), revue Multitudes n°94, avec David Christoffel.<br> 
 2023 - [*Hypothèses de démarrage*](https://www.leventdessignes.fr/hypotheses-de-demarrage/), Le vent des signes, avec Charles Robinson et Emmanuel Adely.<br>
 2023 - [*Le rire de Parméniscos*](http://revuenioques.fr/parution-de-nioques-27/), revue Nioques n°27.<br>
-2022 - [*La fin des histoires*](https://shs.cairn.info/revue-poesie-2022-1-page-163?lang=fr), revue Po&sie n° 180, avec Marie de Quatrebarbes.
-2022 - [*Le lynchage à la tomate*](https://journals.openedition.org/transposition/6809), revue Transposition n°10, avec David Christoffel (traduction anglaise de Fanny Quément : [*Tomato bashing*](https://journals.openedition.org/transposition/6874)).<br>
+2022 - [*La fin des histoires*](https://shs.cairn.info/revue-poesie-2022-1-page-163?lang=fr), revue Po&sie n° 180, avec Marie de Quatrebarbes.<br> 2022 - [*Le lynchage à la tomate*](https://journals.openedition.org/transposition/6809), revue Transposition n°10, avec David Christoffel (traduction anglaise de Fanny Quément : [*Tomato bashing*](https://journals.openedition.org/transposition/6874)).<br>
 2021  - *Série courante*, revue Le bout des Bordes n°15, avec Marie de Quatrebarbes.<br>
 2021  - [*Étude sur la poly-instabilité du contre-effet boomerang*](http://tapin2.org/boxon-34), revue BoXon n°34, avec David Christoffel.<br>
 2021  - [*Il mio plano*](https://www.nazioneindiana.com/2021/08/20/il-mio-piano/), traduit en italien par Laura Giuliberti, Nazione Indiana.<br>
