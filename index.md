@@ -79,7 +79,7 @@ title: Maël Guesdon
 
 ## Performances, lectures, rencontres
 
-2026 - *La dinette de Dracula*, performance, [Maison de la poésie](https://maisondelapoesieparis.com/programme/chloe-delaume-presente-bulle-poetique-mensuelle-dominicale-2/), Paris (22/02/2026).<br> 2025 - *Conseils sur le retour*, performance, avec David Christoffel, [Maison de la poésie](https://maisondelapoesieparis.com/programme/developpement-personnel-poesie/), Paris (11/12/2025).<br>
+2026 - *Le bien-être par la poésie*, Librairie La fleur qui pousse à l'intérieur, Dijon (11/03/2026).<br>2026 - *La dinette de Dracula*, performance, [Maison de la poésie](https://maisondelapoesieparis.com/programme/chloe-delaume-presente-bulle-poetique-mensuelle-dominicale-2/), Paris (22/02/2026).<br> 2025 - *Conseils sur le retour*, performance, avec David Christoffel, [Maison de la poésie](https://maisondelapoesieparis.com/programme/developpement-personnel-poesie/), Paris (11/12/2025).<br>
 2025 - *Le bien-être par la poésie*, Librairie Comment dire, Rennes (15/10/2025).<br>
 2025 - *Le bien-être par la poésie*, Librairie Zoème, Marseille (26/09/2025).<br>
 2025 - *Le bien-être par la poésie*, L'Ours et la vieille grille, Paris (24/09/2025).<br>
