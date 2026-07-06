@@ -16,6 +16,7 @@ title: Maël Guesdon
 
 ## Revues, anthologies, ouvrages collectifs
 
+2026 - [*Une vie dans la jour­née du ca­pi­taine X*](https://www.crusoer.fr/publications/une-vie-dans-la-journee-du-capitaine-x/#tab-principal), revue Crusoer.<br>
 2025 - [*Me suis-je sympa, se dit je ?*](https://editionskime.fr/produit/machines-sympathiques/), Juliette Grange, Sylvie Humbert-Mougin et Anne Ullmo, *Machines sympathiques ?*, éditions Kimé, avec David Christoffel.<br>
 2024 - [*L'intérieur d'un animal enfermé dans une cage*](https://www.la-marelle.org/productions/editions-la-marelle/1504-mael-guesdon-la-revue.html), La Marelle - Cipm.<br> 2024 - [*Les aliens, la musique et nous*](https://www.multitudes.net/les-aliens-la-musique-et-nous/), revue Multitudes n°94, avec David Christoffel.<br> 
 2023 - [*Hypothèses de démarrage*](https://www.leventdessignes.fr/hypotheses-de-demarrage/), Le vent des signes, avec Charles Robinson et Emmanuel Adely.<br>
